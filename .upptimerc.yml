@@ -6,7 +6,7 @@ sites:
   - name: Buckydrop
     url: https://www.buckydrop.com
   - name: Buckydrop BD
-    url: https://bd.buckydrop.com
+    url: $BD_SITE
     expectedStatusCodes:
     - 403
   - name: Superbuy
