@@ -21,6 +21,8 @@ sites:
     url: https://vipgifts.net    
   - name: trixmall.com
     url: https://www.trixmall.com/
+  - name: Myus
+    url: https://chinamarketplace.myus.com
     
 
 status-website:
