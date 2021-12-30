@@ -34,7 +34,7 @@
     "timeMonth": 3869,
     "timeYear": 3869,
     "dailyMinutesDown": {
-      "2021-12-30": 638,
+      "2021-12-30": 646,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -91,19 +91,19 @@
     "url": "https://www.ctiktok.net",
     "icon": "https://favicons.githubusercontent.com/www.ctiktok.net",
     "slug": "ctiktok-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 962,
-    "timeWeek": 960,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 929,
+    "timeDay": 1047,
+    "timeWeek": 982,
+    "timeMonth": 929,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2021-12-30": 0
+      "2021-12-30": 7
     }
   },
   {
