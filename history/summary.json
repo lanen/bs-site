@@ -23,13 +23,13 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "buckydrop-bd",
     "status": "up",
-    "uptime": "22.73%",
+    "uptime": "24.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.93%",
-    "uptimeMonth": "22.73%",
-    "uptimeYear": "22.73%",
+    "uptimeWeek": "73.32%",
+    "uptimeMonth": "24.10%",
+    "uptimeYear": "24.10%",
     "time": 2945,
-    "timeDay": 284,
+    "timeDay": 259,
     "timeWeek": 1179,
     "timeMonth": 2945,
     "timeYear": 2945,
@@ -148,9 +148,9 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://favicons.githubusercontent.com/www.trixmall.com",
     "slug": "trixmall-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 954,
     "timeMonth": 963,
     "timeYear": 963,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-07": 0
+    }
   },
   {
     "name": "Myus",
