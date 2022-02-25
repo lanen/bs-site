@@ -130,19 +130,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://favicons.githubusercontent.com/vipgifts.net",
     "slug": "vipgifts-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 795,
-    "timeWeek": 744,
-    "timeMonth": 733,
-    "timeYear": 698,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 696,
+    "timeDay": 674,
+    "timeWeek": 720,
+    "timeMonth": 728,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2022-02-25": 0
+      "2022-02-25": 17
     }
   },
   {
