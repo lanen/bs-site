@@ -94,19 +94,19 @@
     "url": "https://www.ctiktok.net",
     "icon": "https://favicons.githubusercontent.com/www.ctiktok.net",
     "slug": "ctiktok-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 905,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 946,
+    "timeDay": 964,
     "timeWeek": 1028,
-    "timeMonth": 1004,
-    "timeYear": 945,
+    "timeMonth": 1005,
+    "timeYear": 946,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 10
     }
   },
   {
