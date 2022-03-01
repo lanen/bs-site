@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "buckydrop-bd",
     "status": "up",
-    "uptime": "78.13%",
+    "uptime": "78.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.13%",
+    "uptimeYear": "78.21%",
     "time": 1272,
     "timeDay": 309,
     "timeWeek": 361,
@@ -94,9 +94,9 @@
     "url": "https://www.ctiktok.net",
     "icon": "https://favicons.githubusercontent.com/www.ctiktok.net",
     "slug": "ctiktok-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 1028,
     "timeMonth": 1004,
     "timeYear": 945,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "rexingsports.cn",
