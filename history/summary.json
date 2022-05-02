@@ -142,7 +142,7 @@
     "uptime": "77.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "85.81%",
+    "uptimeMonth": "85.82%",
     "uptimeYear": "77.90%",
     "time": 688,
     "timeDay": 674,
@@ -208,19 +208,19 @@
     "url": "https://chinamarketplace.myus.com",
     "icon": "https://favicons.githubusercontent.com/chinamarketplace.myus.com",
     "slug": "myus",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1601,
-    "timeDay": 2597,
-    "timeWeek": 1677,
-    "timeMonth": 1591,
-    "timeYear": 1601,
+    "time": 1626,
+    "timeDay": 3893,
+    "timeWeek": 2028,
+    "timeMonth": 1697,
+    "timeYear": 1626,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 5
     }
   }
 ]
