@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "buckydrop-bd",
     "status": "up",
-    "uptime": "85.36%",
+    "uptime": "85.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.36%",
+    "uptimeYear": "85.40%",
     "time": 1083,
     "timeDay": 363,
     "timeWeek": 523,
@@ -139,11 +139,11 @@
     "icon": "https://favicons.githubusercontent.com/vipgifts.net",
     "slug": "vipgifts-net",
     "status": "up",
-    "uptime": "77.92%",
+    "uptime": "77.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "86.13%",
-    "uptimeYear": "77.92%",
+    "uptimeMonth": "87.33%",
+    "uptimeYear": "77.98%",
     "time": 689,
     "timeDay": 732,
     "timeWeek": 699,
@@ -208,9 +208,9 @@
     "url": "https://chinamarketplace.myus.com",
     "icon": "https://favicons.githubusercontent.com/chinamarketplace.myus.com",
     "slug": "myus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,6 +219,8 @@
     "timeWeek": 1999,
     "timeMonth": 1695,
     "timeYear": 1625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 0
+    }
   }
 ]
