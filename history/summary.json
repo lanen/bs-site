@@ -208,19 +208,19 @@
     "url": "https://chinamarketplace.myus.com",
     "icon": "https://favicons.githubusercontent.com/chinamarketplace.myus.com",
     "slug": "myus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1657,
-    "timeDay": 2818,
-    "timeWeek": 1948,
-    "timeMonth": 1808,
-    "timeYear": 1657,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1660,
+    "timeDay": 2545,
+    "timeWeek": 1953,
+    "timeMonth": 1813,
+    "timeYear": 1660,
     "dailyMinutesDown": {
-      "2022-05-10": 1
+      "2022-05-10": 21
     }
   }
 ]
