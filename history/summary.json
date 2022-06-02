@@ -190,11 +190,11 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://favicons.githubusercontent.com/www.trixmall.com",
     "slug": "trixmall-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1009,
     "timeDay": 828,
@@ -202,7 +202,7 @@
     "timeMonth": 960,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2022-06-02": 6
+      "2022-06-02": 0
     }
   },
   {
