@@ -4,18 +4,20 @@
     "url": "https://www.buckydrop.com",
     "icon": "https://favicons.githubusercontent.com/www.buckydrop.com",
     "slug": "buckydrop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 569,
-    "timeWeek": 688,
-    "timeMonth": 618,
-    "timeYear": 734,
-    "dailyMinutesDown": {}
+    "time": 732,
+    "timeDay": 438,
+    "timeWeek": 640,
+    "timeMonth": 609,
+    "timeYear": 732,
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Buckydrop BD",
@@ -66,9 +68,9 @@
     "slug": "superbuy",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 572,
     "timeDay": 410,
@@ -76,7 +78,7 @@
     "timeMonth": 507,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 8
     }
   },
   {
@@ -106,7 +108,7 @@
     "uptime": "93.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.20%",
+    "uptimeMonth": "58.19%",
     "uptimeYear": "93.19%",
     "time": 927,
     "timeDay": 0,
@@ -114,7 +116,7 @@
     "timeMonth": 728,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2022-06-21": 413,
+      "2022-06-21": 419,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -218,9 +220,9 @@
     "slug": "trixmall-com",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "99.73%",
     "time": 986,
     "timeDay": 764,
@@ -228,7 +230,7 @@
     "timeMonth": 848,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2022-06-21": 1,
+      "2022-06-21": 8,
       "2022-06-08": 660,
       "2022-06-06": 30,
       "2022-06-02": 24
