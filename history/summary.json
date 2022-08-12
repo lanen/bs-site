@@ -123,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2022-08-12": 1170,
+      "2022-08-12": 1190,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
       "2022-08-09": 1440,
@@ -198,9 +198,9 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1898,
     "timeDay": 3212,
@@ -208,7 +208,6 @@
     "timeMonth": 1582,
     "timeYear": 1898,
     "dailyMinutesDown": {
-      "2022-08-12": 7,
       "2022-06-08": 104,
       "2022-03-22": 88
     }
@@ -218,11 +217,11 @@
     "url": "https://vipgifts.net",
     "icon": "https://favicons.githubusercontent.com/vipgifts.net",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "85.21%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.50%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "85.21%",
     "time": 653,
     "timeDay": 440,
@@ -230,6 +229,7 @@
     "timeMonth": 925,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2022-08-12": 0,
       "2022-07-29": 69,
       "2022-07-28": 18,
       "2022-07-13": 1178,
