@@ -37,7 +37,7 @@
     "timeMonth": 3568,
     "timeYear": 3528,
     "dailyMinutesDown": {
-      "2023-07-13": 1279,
+      "2023-07-13": 1286,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -379,7 +379,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 1279,
+      "2023-07-13": 1286,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -753,7 +753,7 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "34.83%",
+    "uptimeDay": "35.30%",
     "uptimeWeek": "62.63%",
     "uptimeMonth": "91.40%",
     "uptimeYear": "99.28%",
@@ -781,7 +781,7 @@
     "uptime": "98.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "19.71%",
-    "uptimeMonth": "73.45%",
+    "uptimeMonth": "73.43%",
     "uptimeYear": "97.79%",
     "time": 1455,
     "timeDay": 0,
@@ -789,7 +789,7 @@
     "timeMonth": 1915,
     "timeYear": 1597,
     "dailyMinutesDown": {
-      "2023-07-13": 1279,
+      "2023-07-13": 1286,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -808,17 +808,17 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trixmall.com.ico",
     "slug": "trixmall-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "31.33%",
-    "uptimeWeek": "59.12%",
-    "uptimeMonth": "90.59%",
+    "uptimeDay": "31.77%",
+    "uptimeWeek": "59.31%",
+    "uptimeMonth": "90.64%",
     "uptimeYear": "99.22%",
     "time": 1047,
-    "timeDay": 819,
-    "timeWeek": 827,
+    "timeDay": 813,
+    "timeWeek": 826,
     "timeMonth": 862,
-    "timeYear": 1070,
+    "timeYear": 1069,
     "dailyMinutesDown": {
       "2023-07-13": 829,
       "2023-07-12": 849,
@@ -826,7 +826,7 @@
       "2023-07-10": 793,
       "2023-07-09": 497,
       "2023-07-08": 462,
-      "2023-07-07": 382
+      "2023-07-07": 363
     }
   },
   {
@@ -846,7 +846,7 @@
     "timeMonth": 820,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2023-07-13": 1279,
+      "2023-07-13": 1286,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
