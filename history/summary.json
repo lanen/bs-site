@@ -37,7 +37,7 @@
     "timeMonth": 3479,
     "timeYear": 3557,
     "dailyMinutesDown": {
-      "2023-07-17": 394,
+      "2023-07-17": 402,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -383,7 +383,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 394,
+      "2023-07-17": 402,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -755,17 +755,17 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "36.93%",
-    "uptimeWeek": "54.72%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "37.46%",
+    "uptimeWeek": "54.96%",
+    "uptimeMonth": "89.64%",
+    "uptimeYear": "99.14%",
     "time": 1287,
-    "timeDay": 916,
+    "timeDay": 919,
     "timeWeek": 891,
     "timeMonth": 924,
-    "timeYear": 1154,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-07-17": 200,
       "2023-07-16": 927,
@@ -773,7 +773,7 @@
       "2023-07-14": 813,
       "2023-07-13": 811,
       "2023-07-12": 759,
-      "2023-07-11": 125
+      "2023-07-11": 101
     }
   },
   {
@@ -781,17 +781,17 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "9.51%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "62.79%",
+    "uptimeDay": "10.03%",
+    "uptimeWeek": "1.43%",
+    "uptimeMonth": "62.83%",
     "uptimeYear": "96.90%",
-    "time": 1469,
-    "timeDay": 2180,
-    "timeWeek": 2180,
-    "timeMonth": 1919,
-    "timeYear": 1611,
+    "time": 1468,
+    "timeDay": 1982,
+    "timeWeek": 1982,
+    "timeMonth": 1916,
+    "timeYear": 1610,
     "dailyMinutesDown": {
       "2023-07-17": 258,
       "2023-07-16": 1440,
@@ -808,7 +808,7 @@
       "2023-07-05": 905,
       "2023-07-04": 719,
       "2023-07-03": 846,
-      "2023-07-02": 307
+      "2023-07-02": 288
     }
   },
   {
@@ -816,12 +816,12 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trixmall.com.ico",
     "slug": "trixmall-com",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "32.82%",
-    "uptimeWeek": "47.50%",
-    "uptimeMonth": "87.92%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "33.34%",
+    "uptimeWeek": "47.69%",
+    "uptimeMonth": "87.96%",
+    "uptimeYear": "99.00%",
     "time": 1020,
     "timeDay": 839,
     "timeWeek": 818,
@@ -835,7 +835,7 @@
       "2023-07-13": 854,
       "2023-07-12": 849,
       "2023-07-11": 311,
-      "2023-07-10": 269
+      "2023-07-10": 250
     }
   },
   {
@@ -855,7 +855,7 @@
     "timeMonth": 834,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2023-07-17": 395,
+      "2023-07-17": 403,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
