@@ -37,7 +37,7 @@
     "timeMonth": 3482,
     "timeYear": 3591,
     "dailyMinutesDown": {
-      "2023-07-21": 408,
+      "2023-07-21": 414,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 408,
+      "2023-07-21": 414,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -759,15 +759,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "20.69%",
-    "uptimeWeek": "47.71%",
-    "uptimeMonth": "87.97%",
+    "uptimeDay": "21.10%",
+    "uptimeWeek": "47.90%",
+    "uptimeMonth": "88.01%",
     "uptimeYear": "99.00%",
-    "time": 1188,
-    "timeDay": 819,
-    "timeWeek": 876,
+    "time": 1187,
+    "timeDay": 818,
+    "timeWeek": 875,
     "timeMonth": 913,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -777,7 +777,7 @@
       "2023-07-18": 761,
       "2023-07-17": 947,
       "2023-07-16": 927,
-      "2023-07-15": 313
+      "2023-07-15": 294
     }
   },
   {
@@ -785,13 +785,13 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "20.68%",
-    "uptimeWeek": "20.61%",
-    "uptimeMonth": "62.52%",
+    "uptimeDay": "21.09%",
+    "uptimeWeek": "20.67%",
+    "uptimeMonth": "62.56%",
     "uptimeYear": "96.88%",
-    "time": 1348,
+    "time": 1349,
     "timeDay": 932,
     "timeWeek": 1022,
     "timeMonth": 1653,
@@ -811,7 +811,7 @@
       "2023-07-10": 1440,
       "2023-07-09": 1407,
       "2023-07-08": 462,
-      "2023-07-07": 382
+      "2023-07-07": 363
     }
   },
   {
@@ -819,25 +819,25 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trixmall.com.ico",
     "slug": "trixmall-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "19.66%",
-    "uptimeWeek": "43.31%",
-    "uptimeMonth": "86.96%",
-    "uptimeYear": "98.91%",
-    "time": 1012,
-    "timeDay": 853,
-    "timeWeek": 859,
+    "uptimeDay": "20.08%",
+    "uptimeWeek": "43.50%",
+    "uptimeMonth": "87.00%",
+    "uptimeYear": "98.92%",
+    "time": 1011,
+    "timeDay": 841,
+    "timeWeek": 858,
     "timeMonth": 863,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-07-21": 333,
+      "2023-07-21": 334,
       "2023-07-20": 1206,
       "2023-07-19": 810,
       "2023-07-18": 762,
       "2023-07-17": 972,
       "2023-07-16": 961,
-      "2023-07-15": 674
+      "2023-07-15": 655
     }
   },
   {
@@ -857,7 +857,7 @@
     "timeMonth": 683,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2023-07-21": 408,
+      "2023-07-21": 414,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
