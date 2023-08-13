@@ -34,7 +34,7 @@
     "timeMonth": 3638,
     "timeYear": 3805,
     "dailyMinutesDown": {
-      "2023-08-13": 113,
+      "2023-08-13": 125,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
@@ -407,7 +407,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 113,
+      "2023-08-13": 125,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
@@ -783,7 +783,7 @@
     "uptime": "98.92%",
     "uptimeDay": "5.84%",
     "uptimeWeek": "13.46%",
-    "uptimeMonth": "78.49%",
+    "uptimeMonth": "78.47%",
     "uptimeYear": "98.21%",
     "time": 1099,
     "timeDay": 1007,
@@ -791,7 +791,7 @@
     "timeMonth": 897,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2023-08-13": 88,
+      "2023-08-13": 100,
       "2023-08-12": 1379,
       "2023-08-11": 1314,
       "2023-08-10": 1305,
@@ -811,7 +811,7 @@
     "uptime": "98.88%",
     "uptimeDay": "4.56%",
     "uptimeWeek": "12.87%",
-    "uptimeMonth": "77.81%",
+    "uptimeMonth": "77.78%",
     "uptimeYear": "98.15%",
     "time": 1274,
     "timeDay": 1869,
@@ -819,7 +819,7 @@
     "timeMonth": 1130,
     "timeYear": 1314,
     "dailyMinutesDown": {
-      "2023-08-13": 114,
+      "2023-08-13": 126,
       "2023-08-12": 1375,
       "2023-08-11": 1330,
       "2023-08-10": 1290,
@@ -836,19 +836,19 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trixmall.com.ico",
     "slug": "trixmall-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "5.48%",
-    "uptimeWeek": "12.62%",
-    "uptimeMonth": "77.67%",
+    "uptimeDay": "6.28%",
+    "uptimeWeek": "12.73%",
+    "uptimeMonth": "77.71%",
     "uptimeYear": "98.14%",
     "time": 937,
-    "timeDay": 904,
-    "timeWeek": 838,
+    "timeDay": 893,
+    "timeWeek": 837,
     "timeMonth": 816,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-08-13": 113,
+      "2023-08-13": 114,
       "2023-08-12": 1363,
       "2023-08-11": 1337,
       "2023-08-10": 1298,
@@ -857,7 +857,7 @@
       "2023-08-07": 1183,
       "2023-08-06": 924,
       "2023-08-05": 788,
-      "2023-08-04": 72
+      "2023-08-04": 56
     }
   },
   {
@@ -877,7 +877,7 @@
     "timeMonth": 682,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2023-08-13": 114,
+      "2023-08-13": 126,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
