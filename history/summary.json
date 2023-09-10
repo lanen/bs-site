@@ -34,7 +34,7 @@
     "timeMonth": 3473,
     "timeYear": 4036,
     "dailyMinutesDown": {
-      "2023-09-10": 579,
+      "2023-09-10": 585,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -435,7 +435,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 579,
+      "2023-09-10": 586,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -807,23 +807,23 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "28.64%",
-    "uptimeWeek": "70.13%",
-    "uptimeMonth": "93.13%",
+    "uptimeDay": "28.76%",
+    "uptimeWeek": "70.32%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
-    "time": 1048,
-    "timeDay": 931,
-    "timeWeek": 959,
+    "time": 1047,
+    "timeDay": 932,
+    "timeWeek": 958,
     "timeMonth": 978,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2023-09-10": 491,
+      "2023-09-10": 492,
       "2023-09-09": 863,
       "2023-09-08": 587,
       "2023-09-07": 751,
-      "2023-09-06": 322
+      "2023-09-06": 302
     }
   },
   {
@@ -831,15 +831,15 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "30.37%",
-    "uptimeWeek": "69.81%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "30.51%",
+    "uptimeWeek": "70.21%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "99.43%",
     "time": 1337,
-    "timeDay": 2718,
-    "timeWeek": 1429,
+    "timeDay": 2754,
+    "timeWeek": 1431,
     "timeMonth": 1402,
     "timeYear": 1349,
     "dailyMinutesDown": {
@@ -848,7 +848,7 @@
       "2023-09-08": 605,
       "2023-09-07": 713,
       "2023-09-06": 295,
-      "2023-09-05": 98
+      "2023-09-05": 57
     }
   },
   {
@@ -864,7 +864,7 @@
     "uptimeYear": "99.12%",
     "time": 929,
     "timeDay": 876,
-    "timeWeek": 862,
+    "timeWeek": 866,
     "timeMonth": 913,
     "timeYear": 919,
     "dailyMinutesDown": {
@@ -887,14 +887,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.06%",
+    "uptimeYear": "3.05%",
     "time": 1098,
     "timeDay": 801,
     "timeWeek": 784,
     "timeMonth": 779,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2023-09-10": 580,
+      "2023-09-10": 586,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
