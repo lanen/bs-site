@@ -34,7 +34,7 @@
     "timeMonth": 3480,
     "timeYear": 4036,
     "dailyMinutesDown": {
-      "2023-09-11": 1151,
+      "2023-09-11": 1157,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -436,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-11": 1151,
+      "2023-09-11": 1158,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -808,15 +808,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "14.68%",
-    "uptimeWeek": "60.86%",
-    "uptimeMonth": "90.99%",
+    "uptimeDay": "15.08%",
+    "uptimeWeek": "61.11%",
+    "uptimeMonth": "91.05%",
     "uptimeYear": "99.25%",
     "time": 1018,
-    "timeDay": 861,
-    "timeWeek": 940,
+    "timeDay": 856,
+    "timeWeek": 939,
     "timeMonth": 973,
     "timeYear": 990,
     "dailyMinutesDown": {
@@ -824,7 +824,7 @@
       "2023-09-10": 1243,
       "2023-09-09": 863,
       "2023-09-08": 587,
-      "2023-09-07": 300
+      "2023-09-07": 275
     }
   },
   {
@@ -835,8 +835,8 @@
     "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "14.72%",
-    "uptimeWeek": "60.21%",
-    "uptimeMonth": "90.84%",
+    "uptimeWeek": "60.15%",
+    "uptimeMonth": "90.83%",
     "uptimeYear": "99.24%",
     "time": 1418,
     "timeDay": 4275,
@@ -844,7 +844,7 @@
     "timeMonth": 1560,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2023-09-11": 958,
+      "2023-09-11": 964,
       "2023-09-10": 1235,
       "2023-09-09": 843,
       "2023-09-08": 605,
@@ -859,7 +859,7 @@
     "status": "up",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.32%",
+    "uptimeWeek": "89.38%",
     "uptimeMonth": "89.43%",
     "uptimeYear": "99.12%",
     "time": 928,
@@ -894,7 +894,7 @@
     "timeMonth": 778,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2023-09-11": 1152,
+      "2023-09-11": 1158,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
