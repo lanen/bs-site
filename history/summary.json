@@ -34,7 +34,7 @@
     "timeMonth": 3792,
     "timeYear": 4225,
     "dailyMinutesDown": {
-      "2023-09-30": 669,
+      "2023-09-30": 676,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-30": 669,
+      "2023-09-30": 676,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -826,16 +826,16 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "12.98%",
-    "uptimeWeek": "30.74%",
-    "uptimeMonth": "84.06%",
-    "uptimeYear": "98.67%",
+    "uptimeDay": "13.42%",
+    "uptimeWeek": "30.99%",
+    "uptimeMonth": "84.12%",
+    "uptimeYear": "98.68%",
     "time": 1018,
-    "timeDay": 1146,
-    "timeWeek": 958,
-    "timeMonth": 944,
+    "timeDay": 1132,
+    "timeWeek": 956,
+    "timeMonth": 943,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2023-09-30": 569,
@@ -844,7 +844,7 @@
       "2023-09-27": 1271,
       "2023-09-26": 1221,
       "2023-09-25": 737,
-      "2023-09-24": 499
+      "2023-09-24": 473
     }
   },
   {
@@ -855,8 +855,8 @@
     "status": "down",
     "uptime": "99.20%",
     "uptimeDay": "10.07%",
-    "uptimeWeek": "25.07%",
-    "uptimeMonth": "82.76%",
+    "uptimeWeek": "25.00%",
+    "uptimeMonth": "82.74%",
     "uptimeYear": "98.56%",
     "time": 1438,
     "timeDay": 1072,
@@ -864,7 +864,7 @@
     "timeMonth": 1552,
     "timeYear": 1437,
     "dailyMinutesDown": {
-      "2023-09-30": 611,
+      "2023-09-30": 618,
       "2023-09-29": 1330,
       "2023-09-28": 1357,
       "2023-09-27": 1243,
@@ -917,7 +917,7 @@
     "timeMonth": 840,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-09-30": 670,
+      "2023-09-30": 677,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
