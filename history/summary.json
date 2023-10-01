@@ -13,7 +13,7 @@
     "time": 785,
     "timeDay": 708,
     "timeWeek": 918,
-    "timeMonth": 714,
+    "timeMonth": 717,
     "timeYear": 803,
     "dailyMinutesDown": {}
   },
@@ -26,15 +26,16 @@
     "uptime": "40.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 3186,
     "timeDay": 3771,
     "timeWeek": 3786,
-    "timeMonth": 3790,
+    "timeMonth": 3789,
     "timeYear": 4223,
     "dailyMinutesDown": {
-      "2023-09-30": 1435,
+      "2023-10-01": 3,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -397,8 +398,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
-      "2022-10-02": 1440,
-      "2022-10-01": 1440
+      "2022-10-02": 1440
     }
   },
   {
@@ -415,7 +415,7 @@
     "time": 686,
     "timeDay": 756,
     "timeWeek": 715,
-    "timeMonth": 746,
+    "timeMonth": 752,
     "timeYear": 728,
     "dailyMinutesDown": {}
   },
@@ -433,7 +433,7 @@
     "time": 809,
     "timeDay": 555,
     "timeWeek": 646,
-    "timeMonth": 626,
+    "timeMonth": 621,
     "timeYear": 769,
     "dailyMinutesDown": {}
   },
@@ -446,7 +446,7 @@
     "uptime": "26.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 755,
     "timeDay": 0,
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-30": 1435,
+      "2023-10-01": 3,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -817,8 +818,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
-      "2022-10-02": 1440,
-      "2022-10-01": 1440
+      "2022-10-02": 1440
     }
   },
   {
@@ -826,25 +826,26 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "11.53%",
-    "uptimeWeek": "25.71%",
-    "uptimeMonth": "82.90%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "12.09%",
+    "uptimeWeek": "25.93%",
+    "uptimeMonth": "82.95%",
     "uptimeYear": "98.58%",
-    "time": 1011,
-    "timeDay": 890,
-    "timeWeek": 949,
-    "timeMonth": 943,
+    "time": 1010,
+    "timeDay": 885,
+    "timeWeek": 948,
+    "timeMonth": 942,
     "timeYear": 974,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2023-09-30": 1270,
       "2023-09-29": 1330,
       "2023-09-28": 1357,
       "2023-09-27": 1271,
       "2023-09-26": 1221,
       "2023-09-25": 737,
-      "2023-09-24": 304
+      "2023-09-24": 282
     }
   },
   {
@@ -852,25 +853,26 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "8.22%",
-    "uptimeWeek": "21.27%",
-    "uptimeMonth": "81.88%",
+    "uptimeDay": "8.77%",
+    "uptimeWeek": "21.43%",
+    "uptimeMonth": "81.92%",
     "uptimeYear": "98.49%",
     "time": 1436,
-    "timeDay": 1015,
-    "timeWeek": 1407,
-    "timeMonth": 1546,
-    "timeYear": 1434,
+    "timeDay": 998,
+    "timeWeek": 1403,
+    "timeMonth": 1557,
+    "timeYear": 1433,
     "dailyMinutesDown": {
+      "2023-10-01": 1,
       "2023-09-30": 1317,
       "2023-09-29": 1330,
       "2023-09-28": 1357,
       "2023-09-27": 1243,
       "2023-09-26": 1242,
       "2023-09-25": 768,
-      "2023-09-24": 679
+      "2023-09-24": 662
     }
   },
   {
@@ -882,12 +884,12 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.43%",
+    "uptimeMonth": "90.27%",
     "uptimeYear": "99.12%",
     "time": 928,
     "timeDay": 845,
     "timeWeek": 828,
-    "timeMonth": 880,
+    "timeMonth": 864,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2023-09-06": 51,
@@ -908,15 +910,16 @@
     "uptime": "42.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1071,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 800,
+    "timeMonth": 813,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-09-30": 1436,
+      "2023-10-01": 4,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -1279,8 +1282,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
-      "2022-10-02": 1440,
-      "2022-10-01": 1440
+      "2022-10-02": 1440
     }
   }
 ]
