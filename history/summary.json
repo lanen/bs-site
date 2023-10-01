@@ -34,7 +34,7 @@
     "timeMonth": 3789,
     "timeYear": 4223,
     "dailyMinutesDown": {
-      "2023-10-01": 1151,
+      "2023-10-01": 1158,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-01": 1151,
+      "2023-10-01": 1158,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
@@ -826,11 +826,11 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "14.72%",
-    "uptimeWeek": "21.60%",
-    "uptimeMonth": "81.96%",
+    "uptimeDay": "15.14%",
+    "uptimeWeek": "21.80%",
+    "uptimeMonth": "82.01%",
     "uptimeYear": "98.50%",
     "time": 995,
     "timeDay": 906,
@@ -844,7 +844,7 @@
       "2023-09-28": 1357,
       "2023-09-27": 1271,
       "2023-09-26": 1221,
-      "2023-09-25": 498
+      "2023-09-25": 478
     }
   },
   {
@@ -852,15 +852,15 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "14.70%",
-    "uptimeWeek": "19.65%",
-    "uptimeMonth": "81.51%",
+    "uptimeDay": "15.11%",
+    "uptimeWeek": "19.96%",
+    "uptimeMonth": "81.58%",
     "uptimeYear": "98.46%",
     "time": 1425,
-    "timeDay": 1170,
-    "timeWeek": 1256,
+    "timeDay": 1162,
+    "timeWeek": 1254,
     "timeMonth": 1559,
     "timeYear": 1431,
     "dailyMinutesDown": {
@@ -870,7 +870,7 @@
       "2023-09-28": 1357,
       "2023-09-27": 1243,
       "2023-09-26": 1242,
-      "2023-09-25": 652
+      "2023-09-25": 621
     }
   },
   {
@@ -882,7 +882,7 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.97%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.12%",
     "time": 928,
     "timeDay": 845,
@@ -916,7 +916,7 @@
     "timeMonth": 813,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-10-01": 1152,
+      "2023-10-01": 1158,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
