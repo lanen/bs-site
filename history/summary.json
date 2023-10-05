@@ -34,7 +34,7 @@
     "timeMonth": 3805,
     "timeYear": 4197,
     "dailyMinutesDown": {
-      "2023-10-05": 12,
+      "2023-10-05": 22,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 12,
+      "2023-10-05": 23,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -826,12 +826,12 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "9.47%",
-    "uptimeWeek": "21.01%",
-    "uptimeMonth": "81.82%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "10.18%",
+    "uptimeWeek": "24.06%",
+    "uptimeMonth": "82.52%",
+    "uptimeYear": "98.54%",
     "time": 992,
     "timeDay": 936,
     "timeWeek": 953,
@@ -845,7 +845,7 @@
       "2023-10-01": 1212,
       "2023-09-30": 1270,
       "2023-09-29": 1330,
-      "2023-09-28": 327
+      "2023-09-28": 20
     }
   },
   {
@@ -853,15 +853,15 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "9.48%",
-    "uptimeWeek": "18.70%",
-    "uptimeMonth": "81.29%",
-    "uptimeYear": "98.44%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "10.17%",
+    "uptimeWeek": "19.13%",
+    "uptimeMonth": "81.39%",
+    "uptimeYear": "98.45%",
     "time": 1414,
-    "timeDay": 884,
-    "timeWeek": 1015,
+    "timeDay": 880,
+    "timeWeek": 1014,
     "timeMonth": 1549,
     "timeYear": 1417,
     "dailyMinutesDown": {
@@ -872,7 +872,7 @@
       "2023-10-01": 1212,
       "2023-09-30": 1317,
       "2023-09-29": 1330,
-      "2023-09-28": 492
+      "2023-09-28": 448
     }
   },
   {
@@ -884,7 +884,7 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.11%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.12%",
     "time": 928,
     "timeDay": 943,
@@ -918,7 +918,7 @@
     "timeMonth": 868,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-10-05": 13,
+      "2023-10-05": 23,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
