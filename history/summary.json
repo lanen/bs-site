@@ -34,7 +34,7 @@
     "timeMonth": 3805,
     "timeYear": 4197,
     "dailyMinutesDown": {
-      "2023-10-05": 1,
+      "2023-10-05": 12,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 1,
+      "2023-10-05": 12,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -828,7 +828,7 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "8.72%",
+    "uptimeDay": "9.47%",
     "uptimeWeek": "21.01%",
     "uptimeMonth": "81.82%",
     "uptimeYear": "98.49%",
@@ -855,7 +855,7 @@
     "slug": "vipgifts-net",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "8.73%",
+    "uptimeDay": "9.48%",
     "uptimeWeek": "18.70%",
     "uptimeMonth": "81.29%",
     "uptimeYear": "98.44%",
@@ -889,7 +889,7 @@
     "time": 928,
     "timeDay": 943,
     "timeWeek": 842,
-    "timeMonth": 860,
+    "timeMonth": 866,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2023-09-06": 51,
@@ -918,7 +918,7 @@
     "timeMonth": 868,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-10-05": 2,
+      "2023-10-05": 13,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
