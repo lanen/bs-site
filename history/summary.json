@@ -34,7 +34,7 @@
     "timeMonth": 3768,
     "timeYear": 4070,
     "dailyMinutesDown": {
-      "2023-10-28": 1404,
+      "2023-10-28": 1410,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-28": 1404,
+      "2023-10-28": 1410,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -826,11 +826,11 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "49.19%",
-    "uptimeWeek": "71.23%",
-    "uptimeMonth": "93.38%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "49.59%",
+    "uptimeWeek": "71.38%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 974,
     "timeDay": 829,
@@ -841,7 +841,7 @@
       "2023-10-28": 703,
       "2023-10-27": 970,
       "2023-10-26": 973,
-      "2023-10-25": 256
+      "2023-10-25": 241
     }
   },
   {
@@ -849,22 +849,22 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "49.25%",
-    "uptimeWeek": "71.23%",
-    "uptimeMonth": "93.38%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "49.64%",
+    "uptimeWeek": "71.38%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
-    "time": 1368,
-    "timeDay": 2154,
-    "timeWeek": 1542,
-    "timeMonth": 1177,
-    "timeYear": 1364,
+    "time": 1369,
+    "timeDay": 2206,
+    "timeWeek": 1552,
+    "timeMonth": 1180,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2023-10-28": 702,
       "2023-10-27": 969,
       "2023-10-26": 973,
-      "2023-10-25": 257
+      "2023-10-25": 241
     }
   },
   {
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2023-10-28": 1405,
+      "2023-10-28": 1411,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
