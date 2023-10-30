@@ -34,7 +34,7 @@
     "timeMonth": 3657,
     "timeYear": 4049,
     "dailyMinutesDown": {
-      "2023-10-30": 15,
+      "2023-10-30": 31,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 15,
+      "2023-10-30": 31,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -826,12 +826,12 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "34.35%",
-    "uptimeWeek": "70.93%",
-    "uptimeMonth": "93.31%",
-    "uptimeYear": "99.44%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "35.43%",
+    "uptimeWeek": "71.29%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "99.45%",
     "time": 984,
     "timeDay": 1105,
     "timeWeek": 904,
@@ -842,7 +842,7 @@
       "2023-10-29": 947,
       "2023-10-28": 727,
       "2023-10-27": 970,
-      "2023-10-26": 274
+      "2023-10-26": 237
     }
   },
   {
@@ -850,23 +850,23 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "33.40%",
-    "uptimeWeek": "70.13%",
-    "uptimeMonth": "93.13%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "34.46%",
+    "uptimeWeek": "70.31%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
     "time": 1363,
     "timeDay": 875,
-    "timeWeek": 1496,
+    "timeWeek": 1495,
     "timeMonth": 1173,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2023-10-30": 15,
+      "2023-10-30": 16,
       "2023-10-29": 962,
       "2023-10-28": 726,
       "2023-10-27": 969,
-      "2023-10-26": 342
+      "2023-10-26": 323
     }
   },
   {
@@ -912,7 +912,7 @@
     "timeMonth": 0,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-10-30": 16,
+      "2023-10-30": 32,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
