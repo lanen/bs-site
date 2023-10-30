@@ -34,7 +34,7 @@
     "timeMonth": 3657,
     "timeYear": 4049,
     "dailyMinutesDown": {
-      "2023-10-30": 1301,
+      "2023-10-30": 1313,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 1301,
+      "2023-10-30": 1314,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -826,12 +826,12 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "40.47%",
-    "uptimeWeek": "73.13%",
-    "uptimeMonth": "93.82%",
-    "uptimeYear": "99.48%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "41.31%",
+    "uptimeWeek": "73.27%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "99.49%",
     "time": 975,
     "timeDay": 1010,
     "timeWeek": 923,
@@ -841,7 +841,7 @@
       "2023-10-30": 757,
       "2023-10-29": 947,
       "2023-10-28": 727,
-      "2023-10-27": 280
+      "2023-10-27": 265
     }
   },
   {
@@ -849,22 +849,22 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "40.44%",
-    "uptimeWeek": "71.93%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "41.25%",
+    "uptimeWeek": "72.61%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "99.47%",
     "time": 1362,
-    "timeDay": 1725,
-    "timeWeek": 1591,
+    "timeDay": 1710,
+    "timeWeek": 1589,
     "timeMonth": 1204,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2023-10-30": 757,
+      "2023-10-30": 758,
       "2023-10-29": 962,
       "2023-10-28": 726,
-      "2023-10-27": 387
+      "2023-10-27": 318
     }
   },
   {
@@ -899,7 +899,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinamarketplace.myus.com.ico",
     "slug": "myus",
     "status": "down",
-    "uptime": "40.74%",
+    "uptime": "40.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-10-30": 1302,
+      "2023-10-30": 1315,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
