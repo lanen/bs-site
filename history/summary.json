@@ -13,7 +13,7 @@
     "time": 786,
     "timeDay": 637,
     "timeWeek": 610,
-    "timeMonth": 664,
+    "timeMonth": 666,
     "timeYear": 777,
     "dailyMinutesDown": {}
   },
@@ -26,15 +26,16 @@
     "uptime": "39.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3375,
     "timeDay": 3982,
     "timeWeek": 3281,
-    "timeMonth": 3664,
+    "timeMonth": 3668,
     "timeYear": 4045,
     "dailyMinutesDown": {
-      "2023-10-30": 1431,
+      "2023-10-31": 12,
+      "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -397,8 +398,7 @@
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
-      "2022-11-01": 1440,
-      "2022-10-31": 1440
+      "2022-11-01": 1440
     }
   },
   {
@@ -415,7 +415,7 @@
     "time": 692,
     "timeDay": 495,
     "timeWeek": 654,
-    "timeMonth": 611,
+    "timeMonth": 616,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
@@ -433,7 +433,7 @@
     "time": 796,
     "timeDay": 557,
     "timeWeek": 577,
-    "timeMonth": 586,
+    "timeMonth": 585,
     "timeYear": 739,
     "dailyMinutesDown": {}
   },
@@ -446,7 +446,7 @@
     "uptime": "25.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 1432,
+      "2023-10-31": 12,
+      "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -817,8 +818,7 @@
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
-      "2022-11-01": 1440,
-      "2022-10-31": 1440
+      "2022-11-01": 1440
     }
   },
   {
@@ -828,17 +828,18 @@
     "slug": "rexingsports-cn",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "42.87%",
-    "uptimeWeek": "73.07%",
-    "uptimeMonth": "93.80%",
+    "uptimeDay": "42.50%",
+    "uptimeWeek": "72.86%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.48%",
     "time": 974,
-    "timeDay": 952,
+    "timeDay": 953,
     "timeWeek": 922,
-    "timeMonth": 918,
+    "timeMonth": 917,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2023-10-30": 818,
+      "2023-10-31": 12,
+      "2023-10-30": 827,
       "2023-10-29": 947,
       "2023-10-28": 727,
       "2023-10-27": 224
@@ -850,18 +851,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "42.80%",
-    "uptimeWeek": "72.37%",
-    "uptimeMonth": "93.64%",
+    "uptime": "99.71%",
+    "uptimeDay": "42.45%",
+    "uptimeWeek": "72.16%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 1364,
-    "timeDay": 1855,
-    "timeWeek": 1601,
-    "timeMonth": 1208,
+    "timeDay": 1871,
+    "timeWeek": 1604,
+    "timeMonth": 1204,
     "timeYear": 1366,
     "dailyMinutesDown": {
-      "2023-10-30": 819,
+      "2023-10-31": 13,
+      "2023-10-30": 827,
       "2023-10-29": 962,
       "2023-10-28": 726,
       "2023-10-27": 280
@@ -902,7 +904,7 @@
     "uptime": "40.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1029,
     "timeDay": 0,
@@ -910,7 +912,8 @@
     "timeMonth": 0,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2023-10-30": 1433,
+      "2023-10-31": 13,
+      "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -1273,8 +1276,7 @@
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
-      "2022-11-01": 1440,
-      "2022-10-31": 1440
+      "2022-11-01": 1440
     }
   }
 ]
