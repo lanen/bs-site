@@ -34,7 +34,7 @@
     "timeMonth": 3579,
     "timeYear": 4033,
     "dailyMinutesDown": {
-      "2023-11-01": 734,
+      "2023-11-01": 747,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-01": 734,
+      "2023-11-01": 747,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -826,12 +826,12 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "33.79%",
-    "uptimeWeek": "69.99%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "34.67%",
+    "uptimeWeek": "70.46%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "99.43%",
     "time": 971,
     "timeDay": 816,
     "timeWeek": 925,
@@ -841,7 +841,7 @@
       "2023-11-01": 498,
       "2023-10-31": 973,
       "2023-10-30": 827,
-      "2023-10-29": 728
+      "2023-10-29": 681
     }
   },
   {
@@ -849,22 +849,22 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "33.81%",
-    "uptimeWeek": "68.78%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "34.65%",
+    "uptimeWeek": "69.00%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "99.41%",
     "time": 1368,
-    "timeDay": 1358,
-    "timeWeek": 1624,
+    "timeDay": 1348,
+    "timeWeek": 1623,
     "timeMonth": 1232,
     "timeYear": 1369,
     "dailyMinutesDown": {
-      "2023-11-01": 498,
+      "2023-11-01": 499,
       "2023-10-31": 979,
       "2023-10-30": 827,
-      "2023-10-29": 844
+      "2023-10-29": 821
     }
   },
   {
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2023-11-01": 735,
+      "2023-11-01": 747,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
