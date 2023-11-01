@@ -34,7 +34,7 @@
     "timeMonth": 3579,
     "timeYear": 4033,
     "dailyMinutesDown": {
-      "2023-11-01": 938,
+      "2023-11-01": 945,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-01": 938,
+      "2023-11-01": 945,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -826,11 +826,11 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "30.53%",
-    "uptimeWeek": "70.24%",
-    "uptimeMonth": "93.15%",
+    "uptimeDay": "30.94%",
+    "uptimeWeek": "70.42%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 971,
     "timeDay": 878,
@@ -841,7 +841,7 @@
       "2023-11-01": 625,
       "2023-10-31": 973,
       "2023-10-30": 827,
-      "2023-10-29": 577
+      "2023-10-29": 558
     }
   },
   {
@@ -849,22 +849,22 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "30.53%",
-    "uptimeWeek": "69.76%",
-    "uptimeMonth": "93.04%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "30.92%",
+    "uptimeWeek": "70.20%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "99.43%",
     "time": 1368,
-    "timeDay": 1341,
-    "timeWeek": 1616,
+    "timeDay": 1331,
+    "timeWeek": 1601,
     "timeMonth": 1232,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2023-11-01": 625,
+      "2023-11-01": 626,
       "2023-10-31": 979,
       "2023-10-30": 827,
-      "2023-10-29": 618
+      "2023-10-29": 573
     }
   },
   {
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2023-11-01": 939,
+      "2023-11-01": 946,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
