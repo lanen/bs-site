@@ -34,7 +34,7 @@
     "timeMonth": 3561,
     "timeYear": 3998,
     "dailyMinutesDown": {
-      "2023-11-05": 207,
+      "2023-11-05": 220,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-05": 207,
+      "2023-11-05": 220,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
@@ -826,23 +826,23 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "54.04%",
-    "uptimeWeek": "72.96%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "99.48%",
-    "time": 963,
-    "timeDay": 843,
-    "timeWeek": 904,
-    "timeMonth": 904,
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "54.90%",
+    "uptimeWeek": "73.40%",
+    "uptimeMonth": "93.88%",
+    "uptimeYear": "99.49%",
+    "time": 962,
+    "timeDay": 845,
+    "timeWeek": 905,
+    "timeMonth": 905,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2023-11-05": 61,
       "2023-11-04": 706,
       "2023-11-03": 790,
       "2023-11-02": 794,
-      "2023-11-01": 376
+      "2023-11-01": 332
     }
   },
   {
@@ -850,15 +850,15 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "54.04%",
-    "uptimeWeek": "72.95%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "99.48%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "54.88%",
+    "uptimeWeek": "73.38%",
+    "uptimeMonth": "93.88%",
+    "uptimeYear": "99.49%",
     "time": 1365,
-    "timeDay": 1185,
-    "timeWeek": 1340,
+    "timeDay": 1176,
+    "timeWeek": 1339,
     "timeMonth": 1243,
     "timeYear": 1362,
     "dailyMinutesDown": {
@@ -866,7 +866,7 @@
       "2023-11-04": 706,
       "2023-11-03": 790,
       "2023-11-02": 794,
-      "2023-11-01": 376
+      "2023-11-01": 332
     }
   },
   {
@@ -901,7 +901,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinamarketplace.myus.com.ico",
     "slug": "myus",
     "status": "down",
-    "uptime": "40.43%",
+    "uptime": "40.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -912,7 +912,7 @@
     "timeMonth": 0,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-11-05": 208,
+      "2023-11-05": 220,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
