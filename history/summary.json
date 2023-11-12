@@ -34,7 +34,7 @@
     "timeMonth": 3326,
     "timeYear": 3957,
     "dailyMinutesDown": {
-      "2023-11-12": 237,
+      "2023-11-12": 243,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-12": 237,
+      "2023-11-12": 243,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "35.15%",
-    "uptimeWeek": "72.79%",
-    "uptimeMonth": "93.74%",
+    "uptimeDay": "35.55%",
+    "uptimeWeek": "72.98%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 963,
-    "timeDay": 923,
+    "timeDay": 920,
     "timeWeek": 919,
     "timeMonth": 907,
     "timeYear": 944,
@@ -841,7 +841,7 @@
       "2023-11-12": 158,
       "2023-11-11": 928,
       "2023-11-10": 836,
-      "2023-11-09": 825
+      "2023-11-09": 806
     }
   },
   {
@@ -852,16 +852,16 @@
     "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "34.18%",
-    "uptimeWeek": "72.66%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "99.48%",
+    "uptimeWeek": "72.61%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "99.47%",
     "time": 1363,
     "timeDay": 1487,
-    "timeWeek": 1373,
-    "timeMonth": 1321,
+    "timeWeek": 1374,
+    "timeMonth": 1319,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2023-11-12": 165,
+      "2023-11-12": 171,
       "2023-11-11": 935,
       "2023-11-10": 836,
       "2023-11-09": 823
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2023-11-12": 237,
+      "2023-11-12": 243,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
