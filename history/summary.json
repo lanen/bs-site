@@ -34,7 +34,7 @@
     "timeMonth": 3245,
     "timeYear": 3951,
     "dailyMinutesDown": {
-      "2023-11-15": 1259,
+      "2023-11-15": 1266,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-15": 1259,
+      "2023-11-15": 1266,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
@@ -829,8 +829,8 @@
     "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "25.03%",
-    "uptimeWeek": "64.39%",
-    "uptimeMonth": "91.81%",
+    "uptimeWeek": "64.31%",
+    "uptimeMonth": "91.79%",
     "uptimeYear": "99.32%",
     "time": 961,
     "timeDay": 855,
@@ -838,7 +838,7 @@
     "timeMonth": 905,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-11-15": 964,
+      "2023-11-15": 972,
       "2023-11-14": 978,
       "2023-11-13": 1116,
       "2023-11-12": 531
@@ -849,22 +849,22 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "25.05%",
-    "uptimeWeek": "64.13%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "99.31%",
-    "time": 1361,
-    "timeDay": 909,
-    "timeWeek": 1312,
-    "timeMonth": 1350,
-    "timeYear": 1360,
+    "uptimeDay": "25.55%",
+    "uptimeWeek": "64.31%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "99.32%",
+    "time": 1362,
+    "timeDay": 966,
+    "timeWeek": 1318,
+    "timeMonth": 1352,
+    "timeYear": 1361,
     "dailyMinutesDown": {
-      "2023-11-15": 964,
+      "2023-11-15": 965,
       "2023-11-14": 987,
       "2023-11-13": 1116,
-      "2023-11-12": 549
+      "2023-11-12": 530
     }
   },
   {
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2023-11-15": 1259,
+      "2023-11-15": 1267,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
