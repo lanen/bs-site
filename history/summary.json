@@ -34,7 +34,7 @@
     "timeMonth": 3235,
     "timeYear": 3945,
     "dailyMinutesDown": {
-      "2023-11-16": 807,
+      "2023-11-16": 814,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-16": 807,
+      "2023-11-16": 814,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "25.13%",
-    "uptimeWeek": "63.99%",
-    "uptimeMonth": "91.71%",
+    "uptimeDay": "25.11%",
+    "uptimeWeek": "64.16%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.31%",
     "time": 960,
-    "timeDay": 989,
+    "timeDay": 988,
     "timeWeek": 899,
     "timeMonth": 897,
     "timeYear": 941,
@@ -841,7 +841,7 @@
       "2023-11-16": 583,
       "2023-11-15": 1126,
       "2023-11-14": 978,
-      "2023-11-13": 942
+      "2023-11-13": 924
     }
   },
   {
@@ -849,22 +849,22 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "25.64%",
-    "uptimeWeek": "63.98%",
-    "uptimeMonth": "91.71%",
+    "uptimeDay": "25.60%",
+    "uptimeWeek": "64.15%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.31%",
     "time": 1354,
-    "timeDay": 967,
+    "timeDay": 908,
     "timeWeek": 1293,
     "timeMonth": 1340,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2023-11-16": 583,
+      "2023-11-16": 584,
       "2023-11-15": 1118,
       "2023-11-14": 987,
-      "2023-11-13": 942
+      "2023-11-13": 924
     }
   },
   {
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-11-16": 808,
+      "2023-11-16": 815,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
