@@ -34,7 +34,7 @@
     "timeMonth": 3235,
     "timeYear": 3945,
     "dailyMinutesDown": {
-      "2023-11-16": 699,
+      "2023-11-16": 705,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-16": 699,
+      "2023-11-16": 705,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "24.97%",
-    "uptimeWeek": "62.60%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "25.15%",
+    "uptimeWeek": "62.80%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "99.29%",
     "time": 960,
-    "timeDay": 976,
+    "timeDay": 981,
     "timeWeek": 898,
     "timeMonth": 897,
     "timeYear": 941,
@@ -842,7 +842,7 @@
       "2023-11-15": 1126,
       "2023-11-14": 978,
       "2023-11-13": 1116,
-      "2023-11-12": 28
+      "2023-11-12": 8
     }
   },
   {
@@ -850,23 +850,23 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "25.48%",
-    "uptimeWeek": "62.59%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "25.66%",
+    "uptimeWeek": "62.79%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "99.29%",
     "time": 1355,
-    "timeDay": 945,
-    "timeWeek": 1295,
+    "timeDay": 949,
+    "timeWeek": 1294,
     "timeMonth": 1341,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2023-11-16": 520,
+      "2023-11-16": 521,
       "2023-11-15": 1118,
       "2023-11-14": 987,
       "2023-11-13": 1116,
-      "2023-11-12": 28
+      "2023-11-12": 8
     }
   },
   {
@@ -912,7 +912,7 @@
     "timeMonth": 0,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-11-16": 700,
+      "2023-11-16": 706,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
