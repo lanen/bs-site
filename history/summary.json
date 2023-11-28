@@ -34,7 +34,7 @@
     "timeMonth": 3392,
     "timeYear": 3893,
     "dailyMinutesDown": {
-      "2023-11-28": 440,
+      "2023-11-28": 447,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-28": 440,
+      "2023-11-28": 447,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -826,22 +826,22 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "39.43%",
-    "uptimeWeek": "73.26%",
-    "uptimeMonth": "93.85%",
+    "uptimeDay": "39.33%",
+    "uptimeWeek": "73.43%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
-    "time": 945,
-    "timeDay": 880,
-    "timeWeek": 885,
+    "time": 944,
+    "timeDay": 881,
+    "timeWeek": 886,
     "timeMonth": 898,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2023-11-28": 320,
+      "2023-11-28": 321,
       "2023-11-27": 895,
       "2023-11-26": 752,
-      "2023-11-25": 732
+      "2023-11-25": 713
     }
   },
   {
@@ -849,22 +849,22 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "38.96%",
-    "uptimeWeek": "72.73%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "38.89%",
+    "uptimeWeek": "72.90%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.48%",
     "time": 1318,
     "timeDay": 872,
     "timeWeek": 901,
-    "timeMonth": 1224,
+    "timeMonth": 1225,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2023-11-28": 326,
+      "2023-11-28": 327,
       "2023-11-27": 894,
       "2023-11-26": 778,
-      "2023-11-25": 751
+      "2023-11-25": 732
     }
   },
   {
@@ -874,7 +874,7 @@
     "slug": "trixmall-com",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "16.29%",
+    "uptimeDay": "16.83%",
     "uptimeWeek": "77.50%",
     "uptimeMonth": "94.82%",
     "uptimeYear": "98.69%",
@@ -913,7 +913,7 @@
     "timeMonth": 0,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-11-28": 441,
+      "2023-11-28": 449,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
