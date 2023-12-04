@@ -34,7 +34,7 @@
     "timeMonth": 3572,
     "timeYear": 3861,
     "dailyMinutesDown": {
-      "2023-12-04": 123,
+      "2023-12-04": 254,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-04": 123,
+      "2023-12-04": 254,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "70.00%",
-    "uptimeWeek": "73.76%",
-    "uptimeMonth": "93.96%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "72.72%",
+    "uptimeWeek": "73.95%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.50%",
     "time": 943,
-    "timeDay": 889,
-    "timeWeek": 912,
+    "timeDay": 867,
+    "timeWeek": 911,
     "timeMonth": 902,
     "timeYear": 934,
     "dailyMinutesDown": {
@@ -843,7 +843,7 @@
       "2023-12-02": 590,
       "2023-12-01": 591,
       "2023-11-30": 609,
-      "2023-11-29": 331
+      "2023-11-29": 312
     }
   },
   {
@@ -851,24 +851,24 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "70.02%",
-    "uptimeWeek": "73.77%",
-    "uptimeMonth": "93.96%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "72.72%",
+    "uptimeWeek": "73.95%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.50%",
     "time": 1299,
-    "timeDay": 1026,
-    "timeWeek": 890,
-    "timeMonth": 1111,
+    "timeDay": 1042,
+    "timeWeek": 888,
+    "timeMonth": 1112,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2023-12-04": 78,
+      "2023-12-04": 79,
       "2023-12-03": 450,
       "2023-12-02": 589,
       "2023-12-01": 591,
       "2023-11-30": 609,
-      "2023-11-29": 331
+      "2023-11-29": 312
     }
   },
   {
@@ -879,7 +879,7 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.90%",
+    "uptimeWeek": "86.20%",
     "uptimeMonth": "94.82%",
     "uptimeYear": "98.69%",
     "time": 932,
@@ -917,7 +917,7 @@
     "timeMonth": 0,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-12-04": 124,
+      "2023-12-04": 255,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
