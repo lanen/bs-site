@@ -34,7 +34,7 @@
     "timeMonth": 3651,
     "timeYear": 3840,
     "dailyMinutesDown": {
-      "2023-12-07": 535,
+      "2023-12-07": 541,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-07": 535,
+      "2023-12-07": 541,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "56.46%",
-    "uptimeWeek": "74.30%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "56.43%",
+    "uptimeWeek": "74.45%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "99.51%",
     "time": 950,
-    "timeDay": 863,
+    "timeDay": 864,
     "timeWeek": 855,
     "timeMonth": 897,
     "timeYear": 932,
@@ -843,7 +843,7 @@
       "2023-12-05": 475,
       "2023-12-04": 435,
       "2023-12-03": 450,
-      "2023-12-02": 396
+      "2023-12-02": 381
     }
   },
   {
@@ -851,11 +851,11 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "56.44%",
-    "uptimeWeek": "74.31%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "56.39%",
+    "uptimeWeek": "74.45%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "99.51%",
     "time": 1286,
     "timeDay": 845,
@@ -863,12 +863,12 @@
     "timeMonth": 1076,
     "timeYear": 1291,
     "dailyMinutesDown": {
-      "2023-12-07": 261,
+      "2023-12-07": 262,
       "2023-12-06": 573,
       "2023-12-05": 475,
       "2023-12-04": 436,
       "2023-12-03": 450,
-      "2023-12-02": 395
+      "2023-12-02": 380
     }
   },
   {
@@ -917,7 +917,7 @@
     "timeMonth": 0,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-12-07": 536,
+      "2023-12-07": 542,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
