@@ -34,7 +34,8 @@
     "timeMonth": 3808,
     "timeYear": 3681,
     "dailyMinutesDown": {
-      "2024-01-08": 1402,
+      "2024-01-09": 14,
+      "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -397,8 +398,7 @@
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
-      "2023-01-10": 1440,
-      "2023-01-09": 1440
+      "2023-01-10": 1440
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ctiktok.net.ico",
     "slug": "ctiktok-net",
     "status": "down",
-    "uptime": "23.11%",
+    "uptime": "23.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-08": 1402,
+      "2024-01-09": 14,
+      "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -817,8 +818,7 @@
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
-      "2023-01-10": 1440,
-      "2023-01-09": 1440
+      "2023-01-10": 1440
     }
   },
   {
@@ -829,12 +829,12 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "98.72%",
-    "uptimeWeek": "86.12%",
+    "uptimeWeek": "86.19%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "99.59%",
     "time": 935,
     "timeDay": 860,
-    "timeWeek": 834,
+    "timeWeek": 832,
     "timeMonth": 871,
     "timeYear": 925,
     "dailyMinutesDown": {
@@ -865,7 +865,7 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "97.54%",
-    "uptimeWeek": "85.57%",
+    "uptimeWeek": "85.64%",
     "uptimeMonth": "94.92%",
     "uptimeYear": "99.58%",
     "time": 1262,
@@ -928,11 +928,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinamarketplace.myus.com.ico",
     "slug": "myus",
     "status": "up",
-    "uptime": "39.99%",
+    "uptime": "40.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.56%",
-    "uptimeYear": "6.29%",
+    "uptimeMonth": "73.68%",
+    "uptimeYear": "6.30%",
     "time": 882,
     "timeDay": 933,
     "timeWeek": 1236,
@@ -1280,8 +1280,7 @@
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
-      "2023-01-10": 1440,
-      "2023-01-09": 1440
+      "2023-01-10": 1440
     }
   }
 ]
