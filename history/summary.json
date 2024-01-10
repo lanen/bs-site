@@ -34,7 +34,7 @@
     "timeMonth": 3811,
     "timeYear": 3675,
     "dailyMinutesDown": {
-      "2024-01-10": 445,
+      "2024-01-10": 450,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -406,19 +406,19 @@
     "url": "https://www.superbuy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.superbuy.com.ico",
     "slug": "superbuy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 857,
-    "timeWeek": 619,
-    "timeMonth": 567,
-    "timeYear": 655,
+    "time": 727,
+    "timeDay": 5470,
+    "timeWeek": 1802,
+    "timeMonth": 865,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 5
     }
   },
   {
@@ -428,18 +428,16 @@
     "slug": "superbuy-login",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 801,
     "timeDay": 14126,
     "timeWeek": 3907,
     "timeMonth": 1321,
     "timeYear": 756,
-    "dailyMinutesDown": {
-      "2024-01-10": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ctiktok.net",
@@ -458,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 445,
+      "2024-01-10": 450,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -935,7 +933,7 @@
     "uptime": "40.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.95%",
+    "uptimeMonth": "77.96%",
     "uptimeYear": "6.66%",
     "time": 881,
     "timeDay": 685,
