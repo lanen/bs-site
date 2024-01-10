@@ -34,7 +34,7 @@
     "timeMonth": 3811,
     "timeYear": 3675,
     "dailyMinutesDown": {
-      "2024-01-10": 440,
+      "2024-01-10": 445,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -406,37 +406,39 @@
     "url": "https://www.superbuy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.superbuy.com.ico",
     "slug": "superbuy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
+    "time": 709,
     "timeDay": 857,
     "timeWeek": 619,
     "timeMonth": 567,
     "timeYear": 655,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 1
+    }
   },
   {
     "name": "Superbuy Login",
     "url": "https://login.superbuy.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.superbuy.com.ico",
     "slug": "superbuy-login",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 674,
-    "timeWeek": 525,
-    "timeMonth": 474,
-    "timeYear": 682,
+    "time": 801,
+    "timeDay": 14126,
+    "timeWeek": 3907,
+    "timeMonth": 1321,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 5
     }
   },
   {
@@ -456,7 +458,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 440,
+      "2024-01-10": 445,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -933,7 +935,7 @@
     "uptime": "40.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.94%",
+    "uptimeMonth": "77.95%",
     "uptimeYear": "6.66%",
     "time": 881,
     "timeDay": 685,
