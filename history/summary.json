@@ -34,7 +34,7 @@
     "timeMonth": 3760,
     "timeYear": 3614,
     "dailyMinutesDown": {
-      "2024-01-22": 225,
+      "2024-01-22": 246,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 225,
+      "2024-01-22": 246,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -826,16 +826,16 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "86.83%",
+    "uptimeDay": "86.81%",
     "uptimeWeek": "91.64%",
-    "uptimeMonth": "94.43%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "99.54%",
     "time": 936,
-    "timeDay": 1006,
-    "timeWeek": 874,
-    "timeMonth": 862,
+    "timeDay": 991,
+    "timeWeek": 873,
+    "timeMonth": 861,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2024-01-22": 40,
@@ -855,7 +855,7 @@
       "2024-01-05": 24,
       "2024-01-04": 271,
       "2024-01-03": 444,
-      "2024-01-02": 165
+      "2024-01-02": 148
     }
   },
   {
@@ -863,19 +863,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "86.83%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "86.77%",
+    "uptimeWeek": "91.59%",
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "99.53%",
     "time": 1257,
-    "timeDay": 883,
-    "timeWeek": 1063,
+    "timeDay": 858,
+    "timeWeek": 1057,
     "timeMonth": 1028,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2024-01-22": 41,
+      "2024-01-22": 42,
       "2024-01-21": 149,
       "2024-01-20": 61,
       "2024-01-19": 63,
@@ -892,7 +892,7 @@
       "2024-01-05": 24,
       "2024-01-04": 305,
       "2024-01-03": 450,
-      "2024-01-02": 165
+      "2024-01-02": 148
     }
   },
   {
@@ -934,7 +934,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "9.90%",
+    "uptimeYear": "9.91%",
     "time": 864,
     "timeDay": 1043,
     "timeWeek": 881,
