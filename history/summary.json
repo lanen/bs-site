@@ -34,7 +34,7 @@
     "timeMonth": 3773,
     "timeYear": 3600,
     "dailyMinutesDown": {
-      "2024-01-27": 343,
+      "2024-01-27": 356,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-27": 343,
+      "2024-01-27": 356,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "70.30%",
-    "uptimeWeek": "86.54%",
-    "uptimeMonth": "94.94%",
+    "uptimeDay": "70.28%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "99.58%",
     "time": 936,
-    "timeDay": 1021,
-    "timeWeek": 1003,
+    "timeDay": 1024,
+    "timeWeek": 1005,
     "timeMonth": 890,
     "timeYear": 921,
     "dailyMinutesDown": {
@@ -852,7 +852,7 @@
       "2024-01-16": 184,
       "2024-01-15": 38,
       "2024-01-14": 19,
-      "2024-01-12": 229
+      "2024-01-12": 212
     }
   },
   {
@@ -860,16 +860,16 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "70.33%",
-    "uptimeWeek": "86.55%",
-    "uptimeMonth": "94.94%",
+    "uptimeDay": "70.29%",
+    "uptimeWeek": "86.59%",
+    "uptimeMonth": "94.97%",
     "uptimeYear": "99.58%",
     "time": 1252,
-    "timeDay": 875,
-    "timeWeek": 886,
-    "timeMonth": 985,
+    "timeDay": 869,
+    "timeWeek": 885,
+    "timeMonth": 984,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2024-01-27": 144,
@@ -886,7 +886,7 @@
       "2024-01-16": 183,
       "2024-01-15": 38,
       "2024-01-14": 19,
-      "2024-01-12": 229
+      "2024-01-12": 212
     }
   },
   {
@@ -924,11 +924,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinamarketplace.myus.com.ico",
     "slug": "myus",
     "status": "up",
-    "uptime": "41.41%",
+    "uptime": "41.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.29%",
+    "uptimeYear": "11.30%",
     "time": 843,
     "timeDay": 650,
     "timeWeek": 943,
