@@ -34,7 +34,7 @@
     "timeMonth": 3854,
     "timeYear": 3543,
     "dailyMinutesDown": {
-      "2024-02-05": 1217,
+      "2024-02-05": 1236,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 1217,
+      "2024-02-05": 1236,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -826,16 +826,16 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "73.08%",
+    "uptimeDay": "73.06%",
     "uptimeWeek": "88.34%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "99.57%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "99.58%",
     "time": 933,
-    "timeDay": 876,
-    "timeWeek": 873,
-    "timeMonth": 904,
+    "timeDay": 866,
+    "timeWeek": 869,
+    "timeMonth": 903,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2024-02-05": 389,
@@ -849,8 +849,7 @@
       "2024-01-27": 333,
       "2024-01-26": 360,
       "2024-01-25": 155,
-      "2024-01-24": 178,
-      "2024-01-23": 19
+      "2024-01-24": 178
     }
   },
   {
@@ -858,19 +857,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "73.05%",
+    "uptimeDay": "72.99%",
     "uptimeWeek": "87.82%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "99.56%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "99.57%",
     "time": 1247,
-    "timeDay": 1000,
-    "timeWeek": 945,
-    "timeMonth": 950,
+    "timeDay": 986,
+    "timeWeek": 941,
+    "timeMonth": 949,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2024-02-05": 389,
+      "2024-02-05": 390,
       "2024-02-04": 164,
       "2024-02-03": 131,
       "2024-02-02": 172,
@@ -881,8 +880,7 @@
       "2024-01-27": 333,
       "2024-01-26": 359,
       "2024-01-25": 156,
-      "2024-01-24": 178,
-      "2024-01-23": 19
+      "2024-01-24": 178
     }
   },
   {
