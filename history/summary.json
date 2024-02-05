@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "34.28%",
+    "uptime": "34.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 3854,
     "timeYear": 3543,
     "dailyMinutesDown": {
-      "2024-02-05": 853,
+      "2024-02-05": 955,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 853,
+      "2024-02-05": 955,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "76.67%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "94.93%",
+    "uptimeDay": "76.65%",
+    "uptimeWeek": "89.22%",
+    "uptimeMonth": "94.96%",
     "uptimeYear": "99.58%",
     "time": 933,
-    "timeDay": 911,
-    "timeWeek": 880,
+    "timeDay": 910,
+    "timeWeek": 878,
     "timeMonth": 907,
     "timeYear": 917,
     "dailyMinutesDown": {
@@ -850,7 +850,7 @@
       "2024-01-26": 360,
       "2024-01-25": 155,
       "2024-01-24": 178,
-      "2024-01-23": 91
+      "2024-01-23": 76
     }
   },
   {
@@ -858,19 +858,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "76.64%",
-    "uptimeWeek": "88.71%",
-    "uptimeMonth": "94.81%",
+    "uptimeDay": "76.60%",
+    "uptimeWeek": "88.70%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "99.57%",
     "time": 1247,
-    "timeDay": 1038,
-    "timeWeek": 959,
-    "timeMonth": 954,
+    "timeDay": 1037,
+    "timeWeek": 957,
+    "timeMonth": 953,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2024-02-05": 300,
+      "2024-02-05": 301,
       "2024-02-04": 164,
       "2024-02-03": 131,
       "2024-02-02": 172,
@@ -882,7 +882,7 @@
       "2024-01-26": 359,
       "2024-01-25": 156,
       "2024-01-24": 178,
-      "2024-01-23": 91
+      "2024-01-23": 76
     }
   },
   {
@@ -924,7 +924,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.86%",
+    "uptimeYear": "13.88%",
     "time": 812,
     "timeDay": 461,
     "timeWeek": 770,
