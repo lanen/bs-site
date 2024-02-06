@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "34.25%",
+    "uptime": "34.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 3861,
     "timeYear": 3538,
     "dailyMinutesDown": {
-      "2024-02-06": 464,
+      "2024-02-06": 485,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-06": 464,
+      "2024-02-06": 485,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "57.76%",
-    "uptimeWeek": "86.00%",
-    "uptimeMonth": "94.91%",
+    "uptimeDay": "58.87%",
+    "uptimeWeek": "85.99%",
+    "uptimeMonth": "94.95%",
     "uptimeYear": "99.58%",
     "time": 929,
-    "timeDay": 935,
-    "timeWeek": 902,
+    "timeDay": 931,
+    "timeWeek": 901,
     "timeMonth": 910,
     "timeYear": 917,
     "dailyMinutesDown": {
@@ -849,7 +849,7 @@
       "2024-01-29": 55,
       "2024-01-27": 333,
       "2024-01-26": 360,
-      "2024-01-25": 21
+      "2024-01-25": 3
     }
   },
   {
@@ -857,19 +857,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "57.74%",
-    "uptimeWeek": "85.58%",
-    "uptimeMonth": "94.80%",
+    "uptimeDay": "58.80%",
+    "uptimeWeek": "85.57%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "99.57%",
     "time": 1244,
-    "timeDay": 982,
-    "timeWeek": 940,
+    "timeDay": 978,
+    "timeWeek": 939,
     "timeMonth": 946,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2024-02-06": 275,
+      "2024-02-06": 276,
       "2024-02-05": 434,
       "2024-02-04": 164,
       "2024-02-03": 131,
@@ -880,7 +880,7 @@
       "2024-01-29": 66,
       "2024-01-27": 333,
       "2024-01-26": 359,
-      "2024-01-25": 21
+      "2024-01-25": 3
     }
   },
   {
