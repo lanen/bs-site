@@ -34,7 +34,7 @@
     "timeMonth": 3833,
     "timeYear": 3447,
     "dailyMinutesDown": {
-      "2024-02-22": 305,
+      "2024-02-22": 324,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-22": 305,
+      "2024-02-22": 324,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -826,16 +826,16 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "89.45%",
+    "uptimeDay": "90.05%",
     "uptimeWeek": "95.16%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "99.58%",
-    "time": 927,
-    "timeDay": 810,
-    "timeWeek": 837,
-    "timeMonth": 915,
+    "uptimeMonth": "95.06%",
+    "uptimeYear": "99.59%",
+    "time": 926,
+    "timeDay": 812,
+    "timeWeek": 835,
+    "timeMonth": 914,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2024-02-22": 90,
@@ -854,7 +854,7 @@
       "2024-02-09": 42,
       "2024-02-08": 231,
       "2024-02-07": 244,
-      "2024-02-06": 298
+      "2024-02-06": 277
     }
   },
   {
@@ -862,19 +862,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "89.48%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "99.59%",
     "time": 1236,
-    "timeDay": 877,
-    "timeWeek": 880,
-    "timeMonth": 919,
+    "timeDay": 889,
+    "timeWeek": 877,
+    "timeMonth": 918,
     "timeYear": 1243,
     "dailyMinutesDown": {
-      "2024-02-22": 90,
+      "2024-02-22": 91,
       "2024-02-21": 61,
       "2024-02-20": 75,
       "2024-02-19": 86,
@@ -890,7 +890,7 @@
       "2024-02-09": 42,
       "2024-02-08": 231,
       "2024-02-07": 244,
-      "2024-02-06": 298
+      "2024-02-06": 277
     }
   },
   {
