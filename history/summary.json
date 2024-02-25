@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 426,
-    "timeWeek": 834,
-    "timeMonth": 590,
-    "timeYear": 694,
+    "time": 738,
+    "timeDay": 837,
+    "timeWeek": 791,
+    "timeMonth": 582,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "33.46%",
+    "uptime": "33.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4057,
-    "timeDay": 3918,
-    "timeWeek": 3865,
-    "timeMonth": 3836,
-    "timeYear": 3438,
+    "time": 4054,
+    "timeDay": 3738,
+    "timeWeek": 3839,
+    "timeMonth": 3823,
+    "timeYear": 3434,
     "dailyMinutesDown": {
-      "2024-02-24": 1126,
+      "2024-02-25": 14,
+      "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -397,8 +398,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 706,
-    "timeDay": 951,
-    "timeWeek": 752,
-    "timeMonth": 596,
-    "timeYear": 681,
+    "timeDay": 854,
+    "timeWeek": 759,
+    "timeMonth": 599,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -430,11 +430,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 569,
-    "timeWeek": 685,
-    "timeMonth": 587,
-    "timeYear": 712,
+    "time": 760,
+    "timeDay": 815,
+    "timeWeek": 687,
+    "timeMonth": 593,
+    "timeYear": 713,
     "dailyMinutesDown": {}
   },
   {
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 1126,
+      "2024-02-25": 14,
+      "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -817,8 +818,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   },
   {
@@ -828,13 +828,13 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "95.49%",
+    "uptimeDay": "97.10%",
     "uptimeWeek": "94.63%",
     "uptimeMonth": "94.96%",
     "uptimeYear": "99.58%",
     "time": 925,
-    "timeDay": 766,
-    "timeWeek": 826,
+    "timeDay": 771,
+    "timeWeek": 820,
     "timeMonth": 905,
     "timeYear": 915,
     "dailyMinutesDown": {
@@ -866,14 +866,14 @@
     "slug": "vipgifts-net",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "95.53%",
+    "uptimeDay": "97.14%",
     "uptimeWeek": "94.63%",
     "uptimeMonth": "94.94%",
     "uptimeYear": "99.58%",
     "time": 1237,
-    "timeDay": 888,
+    "timeDay": 995,
     "timeWeek": 907,
-    "timeMonth": 927,
+    "timeMonth": 929,
     "timeYear": 1243,
     "dailyMinutesDown": {
       "2024-02-24": 41,
@@ -909,9 +909,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 887,
-    "timeDay": 676,
-    "timeWeek": 773,
-    "timeMonth": 746,
+    "timeDay": 722,
+    "timeWeek": 761,
+    "timeMonth": 747,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2023-11-28": 206,
@@ -932,16 +932,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinamarketplace.myus.com.ico",
     "slug": "myus",
     "status": "up",
-    "uptime": "43.51%",
+    "uptime": "43.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.11%",
-    "time": 820,
-    "timeDay": 649,
-    "timeWeek": 1143,
-    "timeMonth": 850,
-    "timeYear": 871,
+    "uptimeYear": "19.18%",
+    "time": 821,
+    "timeDay": 1031,
+    "timeWeek": 1174,
+    "timeMonth": 856,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2023-12-17": 27,
       "2023-12-16": 1440,
@@ -1237,8 +1237,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   }
 ]
