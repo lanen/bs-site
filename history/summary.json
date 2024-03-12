@@ -34,7 +34,7 @@
     "timeMonth": 3887,
     "timeYear": 3370,
     "dailyMinutesDown": {
-      "2024-03-12": 12,
+      "2024-03-12": 23,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-12": 12,
+      "2024-03-12": 23,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -830,7 +830,7 @@
     "uptime": "99.71%",
     "uptimeDay": "97.53%",
     "uptimeWeek": "82.73%",
-    "uptimeMonth": "92.72%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.36%",
     "time": 924,
     "timeDay": 790,
@@ -871,11 +871,11 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "93.94%",
-    "uptimeWeek": "76.59%",
-    "uptimeMonth": "92.03%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "76.58%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "99.34%",
     "time": 1229,
     "timeDay": 1039,
@@ -883,6 +883,7 @@
     "timeMonth": 976,
     "timeYear": 1232,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-03-11": 88,
       "2024-03-10": 148,
       "2024-03-09": 77,
@@ -903,7 +904,7 @@
       "2024-02-22": 158,
       "2024-02-21": 61,
       "2024-02-20": 75,
-      "2024-02-19": 42
+      "2024-02-19": 19
     }
   },
   {
