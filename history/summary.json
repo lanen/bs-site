@@ -34,7 +34,7 @@
     "timeMonth": 3878,
     "timeYear": 3371,
     "dailyMinutesDown": {
-      "2024-03-15": 208,
+      "2024-03-15": 217,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 209,
+      "2024-03-15": 217,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -826,19 +826,19 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "89.72%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "99.37%",
     "time": 931,
-    "timeDay": 801,
-    "timeWeek": 862,
-    "timeMonth": 864,
+    "timeDay": 792,
+    "timeWeek": 857,
+    "timeMonth": 863,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2024-03-15": 75,
+      "2024-03-15": 76,
       "2024-03-14": 94,
       "2024-03-12": 19,
       "2024-03-11": 36,
@@ -865,7 +865,7 @@
       "2024-02-15": 174,
       "2024-02-14": 100,
       "2024-02-13": 94,
-      "2024-02-12": 185
+      "2024-02-12": 161
     }
   },
   {
@@ -873,19 +873,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "60.89%",
-    "uptimeWeek": "85.23%",
-    "uptimeMonth": "91.21%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "61.09%",
+    "uptimeWeek": "85.31%",
+    "uptimeMonth": "91.26%",
     "uptimeYear": "99.27%",
     "time": 1229,
-    "timeDay": 1709,
+    "timeDay": 1744,
     "timeWeek": 1171,
-    "timeMonth": 1039,
+    "timeMonth": 1040,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2024-03-15": 75,
+      "2024-03-15": 76,
       "2024-03-14": 640,
       "2024-03-13": 32,
       "2024-03-12": 94,
@@ -901,8 +901,7 @@
       "2024-03-02": 137,
       "2024-03-01": 119,
       "2024-02-29": 120,
-      "2024-02-28": 34,
-      "2024-02-27": 24
+      "2024-02-28": 34
     }
   },
   {
