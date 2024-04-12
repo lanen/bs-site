@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 722,
-    "timeDay": 693,
-    "timeWeek": 848,
-    "timeMonth": 705,
+    "timeDay": 670,
+    "timeWeek": 855,
+    "timeMonth": 704,
     "timeYear": 668,
     "dailyMinutesDown": {}
   },
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3880,
-    "timeDay": 3794,
-    "timeWeek": 3394,
-    "timeMonth": 3521,
-    "timeYear": 3529,
+    "time": 3871,
+    "timeDay": 3529,
+    "timeWeek": 3317,
+    "timeMonth": 3491,
+    "timeYear": 3537,
     "dailyMinutesDown": {
-      "2024-04-11": 1258,
+      "2024-04-12": 13,
+      "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -397,8 +398,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   },
   {
@@ -412,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 774,
-    "timeWeek": 922,
-    "timeMonth": 642,
+    "time": 688,
+    "timeDay": 375,
+    "timeWeek": 813,
+    "timeMonth": 623,
     "timeYear": 673,
     "dailyMinutesDown": {}
   },
@@ -431,10 +431,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 693,
-    "timeWeek": 711,
-    "timeMonth": 546,
-    "timeYear": 696,
+    "timeDay": 273,
+    "timeWeek": 624,
+    "timeMonth": 532,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ctiktok.net.ico",
     "slug": "ctiktok-net",
     "status": "down",
-    "uptime": "20.55%",
+    "uptime": "20.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-11": 1258,
+      "2024-04-12": 13,
+      "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -817,8 +818,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   },
   {
@@ -828,14 +828,14 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "96.61%",
+    "uptimeDay": "97.91%",
     "uptimeWeek": "90.21%",
-    "uptimeMonth": "96.18%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "99.29%",
     "time": 927,
-    "timeDay": 845,
-    "timeWeek": 926,
-    "timeMonth": 948,
+    "timeDay": 777,
+    "timeWeek": 922,
+    "timeMonth": 950,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2024-04-11": 43,
@@ -881,13 +881,13 @@
     "slug": "vipgifts-net",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "96.61%",
+    "uptimeDay": "97.94%",
     "uptimeWeek": "91.21%",
-    "uptimeMonth": "94.01%",
+    "uptimeMonth": "94.09%",
     "uptimeYear": "99.45%",
     "time": 1228,
-    "timeDay": 809,
-    "timeWeek": 1293,
+    "timeDay": 751,
+    "timeWeek": 1285,
     "timeMonth": 1244,
     "timeYear": 1233,
     "dailyMinutesDown": {
@@ -932,9 +932,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 877,
-    "timeDay": 781,
-    "timeWeek": 868,
-    "timeMonth": 819,
+    "timeDay": 817,
+    "timeWeek": 875,
+    "timeMonth": 822,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2023-11-28": 206,
@@ -959,12 +959,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.74%",
-    "time": 818,
-    "timeDay": 597,
-    "timeWeek": 824,
-    "timeMonth": 762,
-    "timeYear": 875,
+    "uptimeYear": "31.78%",
+    "time": 819,
+    "timeDay": 896,
+    "timeWeek": 832,
+    "timeMonth": 773,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2024-02-29": 18,
       "2023-12-17": 27,
@@ -1214,8 +1214,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   }
 ]
