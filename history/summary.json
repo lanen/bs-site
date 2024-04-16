@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 720,
-    "timeDay": 1197,
-    "timeWeek": 706,
-    "timeMonth": 739,
-    "timeYear": 667,
+    "timeDay": 631,
+    "timeWeek": 659,
+    "timeMonth": 707,
+    "timeYear": 664,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3861,
-    "timeDay": 4149,
-    "timeWeek": 3854,
-    "timeMonth": 3545,
-    "timeYear": 3563,
+    "time": 3856,
+    "timeDay": 3607,
+    "timeWeek": 4229,
+    "timeMonth": 3541,
+    "timeYear": 3570,
     "dailyMinutesDown": {
-      "2024-04-15": 1336,
+      "2024-04-16": 13,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -397,8 +398,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 685,
-    "timeDay": 836,
-    "timeWeek": 638,
-    "timeMonth": 653,
-    "timeYear": 670,
+    "timeDay": 871,
+    "timeWeek": 636,
+    "timeMonth": 652,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -431,10 +431,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 729,
-    "timeDay": 622,
-    "timeWeek": 557,
-    "timeMonth": 566,
-    "timeYear": 691,
+    "timeDay": 585,
+    "timeWeek": 535,
+    "timeMonth": 567,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   },
   {
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-15": 1336,
+      "2024-04-16": 13,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -817,8 +818,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   },
   {
@@ -830,12 +830,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.40%",
-    "uptimeMonth": "96.87%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "99.29%",
     "time": 927,
-    "timeDay": 972,
-    "timeWeek": 920,
-    "timeMonth": 976,
+    "timeDay": 796,
+    "timeWeek": 915,
+    "timeMonth": 941,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2024-04-14": 19,
@@ -883,17 +883,16 @@
     "slug": "vipgifts-net",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "96.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "96.31%",
     "uptimeYear": "99.46%",
     "time": 1229,
-    "timeDay": 1090,
-    "timeWeek": 1049,
-    "timeMonth": 1197,
+    "timeDay": 1079,
+    "timeWeek": 1040,
+    "timeMonth": 1199,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2024-04-15": 7,
       "2024-04-14": 19,
       "2024-04-13": 18,
       "2024-04-11": 43,
@@ -921,7 +920,8 @@
       "2024-03-13": 32,
       "2024-03-12": 94,
       "2024-03-11": 88,
-      "2024-03-10": 123
+      "2024-03-10": 148,
+      "2024-03-09": 1
     }
   },
   {
@@ -936,9 +936,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 876,
-    "timeDay": 709,
-    "timeWeek": 876,
-    "timeMonth": 813,
+    "timeDay": 695,
+    "timeWeek": 862,
+    "timeMonth": 811,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2023-11-28": 206,
@@ -959,15 +959,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinamarketplace.myus.com.ico",
     "slug": "myus",
     "status": "up",
-    "uptime": "46.90%",
+    "uptime": "46.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.85%",
+    "uptimeYear": "32.87%",
     "time": 819,
-    "timeDay": 782,
-    "timeWeek": 739,
-    "timeMonth": 771,
+    "timeDay": 776,
+    "timeWeek": 686,
+    "timeMonth": 781,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -1214,8 +1214,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   }
 ]
