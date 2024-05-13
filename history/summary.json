@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 729,
-    "timeWeek": 713,
-    "timeMonth": 698,
-    "timeYear": 661,
+    "time": 709,
+    "timeDay": 309,
+    "timeWeek": 593,
+    "timeMonth": 697,
+    "timeYear": 660,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "30.51%",
+    "uptime": "30.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3811,
-    "timeDay": 4015,
-    "timeWeek": 4677,
-    "timeMonth": 4334,
-    "timeYear": 3700,
+    "time": 3806,
+    "timeDay": 3392,
+    "timeWeek": 4565,
+    "timeMonth": 4306,
+    "timeYear": 3699,
     "dailyMinutesDown": {
-      "2024-05-12": 126,
+      "2024-05-13": 1,
+      "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
@@ -397,8 +398,7 @@
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
-      "2023-05-15": 1440,
-      "2023-05-14": 1440
+      "2023-05-15": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 693,
-    "timeWeek": 654,
-    "timeMonth": 638,
-    "timeYear": 663,
+    "time": 669,
+    "timeDay": 96,
+    "timeWeek": 558,
+    "timeMonth": 632,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   },
   {
@@ -430,11 +430,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 554,
-    "timeWeek": 529,
+    "time": 720,
+    "timeDay": 244,
+    "timeWeek": 459,
     "timeMonth": 574,
-    "timeYear": 675,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ctiktok.net.ico",
     "slug": "ctiktok-net",
     "status": "down",
-    "uptime": "19.84%",
+    "uptime": "19.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-12": 126,
+      "2024-05-13": 1,
+      "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
@@ -817,8 +818,7 @@
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
-      "2023-05-15": 1440,
-      "2023-05-14": 1440
+      "2023-05-15": 1440
     }
   },
   {
@@ -826,18 +826,19 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.45%",
     "time": 919,
-    "timeDay": 928,
-    "timeWeek": 940,
-    "timeMonth": 895,
+    "timeDay": 852,
+    "timeWeek": 911,
+    "timeMonth": 893,
     "timeYear": 914,
     "dailyMinutesDown": {
+      "2024-05-13": 0,
       "2024-05-12": 22,
       "2024-05-11": 21,
       "2024-05-08": 27,
@@ -877,7 +878,7 @@
       "2024-03-12": 19,
       "2024-03-11": 36,
       "2024-03-08": 473,
-      "2024-03-07": 206
+      "2024-03-07": 186
     }
   },
   {
@@ -885,18 +886,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.32%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 1225,
-    "timeDay": 907,
-    "timeWeek": 865,
-    "timeMonth": 969,
+    "timeDay": 565,
+    "timeWeek": 813,
+    "timeMonth": 962,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2024-05-13": 1,
       "2024-05-12": 22,
       "2024-05-11": 21,
       "2024-05-08": 27,
@@ -935,7 +937,7 @@
       "2024-03-17": 20,
       "2024-03-16": 74,
       "2024-03-15": 246,
-      "2024-03-14": 262
+      "2024-03-14": 235
     }
   },
   {
@@ -950,9 +952,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 863,
-    "timeDay": 735,
-    "timeWeek": 731,
-    "timeMonth": 783,
+    "timeDay": 677,
+    "timeWeek": 723,
+    "timeMonth": 782,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2023-11-28": 206,
@@ -973,15 +975,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinamarketplace.myus.com.ico",
     "slug": "myus",
     "status": "up",
-    "uptime": "48.48%",
+    "uptime": "48.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.02%",
+    "uptimeYear": "40.27%",
     "time": 831,
-    "timeDay": 1107,
-    "timeWeek": 862,
-    "timeMonth": 842,
+    "timeDay": 617,
+    "timeWeek": 851,
+    "timeMonth": 846,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -1201,8 +1203,7 @@
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
-      "2023-05-15": 1440,
-      "2023-05-14": 1440
+      "2023-05-15": 1440
     }
   }
 ]
