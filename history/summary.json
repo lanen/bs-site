@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "30.00%",
+    "uptime": "29.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 4059,
     "timeYear": 3701,
     "dailyMinutesDown": {
-      "2024-05-27": 14,
+      "2024-05-27": 47,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-27": 14,
+      "2024-05-27": 48,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -826,18 +826,19 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "93.35%",
-    "uptimeWeek": "86.11%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "86.44%",
     "uptimeMonth": "93.35%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 924,
-    "timeDay": 938,
-    "timeWeek": 887,
-    "timeMonth": 893,
+    "timeDay": 922,
+    "timeWeek": 886,
+    "timeMonth": 892,
     "timeYear": 914,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-05-26": 96,
       "2024-05-25": 95,
       "2024-05-24": 40,
@@ -869,7 +870,7 @@
       "2024-04-13": 18,
       "2024-04-11": 43,
       "2024-04-10": 189,
-      "2024-04-09": 95
+      "2024-04-09": 76
     }
   },
   {
@@ -877,18 +878,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "93.35%",
-    "uptimeWeek": "86.27%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "86.59%",
     "uptimeMonth": "93.39%",
     "uptimeYear": "99.32%",
     "time": 1223,
-    "timeDay": 892,
+    "timeDay": 879,
     "timeWeek": 806,
-    "timeMonth": 909,
+    "timeMonth": 908,
     "timeYear": 1224,
     "dailyMinutesDown": {
+      "2024-05-27": 1,
       "2024-05-26": 96,
       "2024-05-25": 86,
       "2024-05-24": 40,
@@ -920,7 +922,7 @@
       "2024-04-13": 18,
       "2024-04-11": 43,
       "2024-04-10": 189,
-      "2024-04-09": 95
+      "2024-04-09": 76
     }
   },
   {
