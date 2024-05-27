@@ -34,7 +34,7 @@
     "timeMonth": 4059,
     "timeYear": 3701,
     "dailyMinutesDown": {
-      "2024-05-27": 778,
+      "2024-05-27": 797,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-27": 778,
+      "2024-05-27": 797,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -826,16 +826,16 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "86.84%",
-    "uptimeWeek": "86.16%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "86.15%",
     "uptimeMonth": "93.00%",
     "uptimeYear": "99.32%",
     "time": 923,
-    "timeDay": 881,
+    "timeDay": 877,
     "timeWeek": 887,
-    "timeMonth": 889,
+    "timeMonth": 888,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2024-05-27": 152,
@@ -869,7 +869,7 @@
       "2024-04-14": 19,
       "2024-04-13": 18,
       "2024-04-11": 43,
-      "2024-04-10": 111
+      "2024-04-10": 92
     }
   },
   {
@@ -877,19 +877,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "86.84%",
-    "uptimeWeek": "86.31%",
+    "uptimeDay": "86.77%",
+    "uptimeWeek": "86.30%",
     "uptimeMonth": "93.04%",
     "uptimeYear": "99.32%",
     "time": 1223,
-    "timeDay": 862,
-    "timeWeek": 820,
-    "timeMonth": 904,
+    "timeDay": 840,
+    "timeWeek": 816,
+    "timeMonth": 901,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2024-05-27": 153,
+      "2024-05-27": 154,
       "2024-05-26": 96,
       "2024-05-25": 86,
       "2024-05-24": 40,
@@ -920,7 +920,7 @@
       "2024-04-14": 19,
       "2024-04-13": 18,
       "2024-04-11": 43,
-      "2024-04-10": 111
+      "2024-04-10": 92
     }
   },
   {
