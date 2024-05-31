@@ -13,7 +13,7 @@
     "time": 704,
     "timeDay": 979,
     "timeWeek": 650,
-    "timeMonth": 580,
+    "timeMonth": 594,
     "timeYear": 653,
     "dailyMinutesDown": {}
   },
@@ -26,15 +26,16 @@
     "uptime": "29.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3722,
     "timeDay": 1100,
     "timeWeek": 3082,
-    "timeMonth": 3895,
+    "timeMonth": 3891,
     "timeYear": 3704,
     "dailyMinutesDown": {
-      "2024-05-30": 1398,
+      "2024-05-31": 13,
+      "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
@@ -397,8 +398,7 @@
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
-      "2023-06-02": 1440,
-      "2023-06-01": 1440
+      "2023-06-02": 1440
     }
   },
   {
@@ -415,7 +415,7 @@
     "time": 665,
     "timeDay": 928,
     "timeWeek": 533,
-    "timeMonth": 531,
+    "timeMonth": 541,
     "timeYear": 660,
     "dailyMinutesDown": {}
   },
@@ -433,7 +433,7 @@
     "time": 702,
     "timeDay": 740,
     "timeWeek": 541,
-    "timeMonth": 484,
+    "timeMonth": 486,
     "timeYear": 670,
     "dailyMinutesDown": {}
   },
@@ -446,7 +446,7 @@
     "uptime": "19.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-30": 1398,
+      "2024-05-31": 13,
+      "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
@@ -817,8 +818,7 @@
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
-      "2023-06-02": 1440,
-      "2023-06-01": 1440
+      "2023-06-02": 1440
     }
   },
   {
@@ -828,12 +828,12 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "82.04%",
+    "uptimeDay": "83.10%",
     "uptimeWeek": "86.91%",
     "uptimeMonth": "91.88%",
     "uptimeYear": "99.32%",
     "time": 923,
-    "timeDay": 1053,
+    "timeDay": 933,
     "timeWeek": 932,
     "timeMonth": 909,
     "timeYear": 914,
@@ -859,12 +859,12 @@
     "slug": "vipgifts-net",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "82.03%",
+    "uptimeDay": "83.12%",
     "uptimeWeek": "87.00%",
     "uptimeMonth": "91.91%",
     "uptimeYear": "99.33%",
     "time": 1220,
-    "timeDay": 1018,
+    "timeDay": 1021,
     "timeWeek": 893,
     "timeMonth": 905,
     "timeYear": 1220,
@@ -897,7 +897,7 @@
     "time": 861,
     "timeDay": 872,
     "timeWeek": 776,
-    "timeMonth": 775,
+    "timeMonth": 777,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2023-11-28": 206,
@@ -922,11 +922,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.19%",
+    "uptimeYear": "45.20%",
     "time": 833,
     "timeDay": 996,
     "timeWeek": 590,
-    "timeMonth": 786,
+    "timeMonth": 794,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -1128,8 +1128,7 @@
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
-      "2023-06-02": 1440,
-      "2023-06-01": 1440
+      "2023-06-02": 1440
     }
   }
 ]
