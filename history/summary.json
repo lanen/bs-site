@@ -34,7 +34,7 @@
     "timeMonth": 3801,
     "timeYear": 3692,
     "dailyMinutesDown": {
-      "2024-06-01": 846,
+      "2024-06-01": 855,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-01": 846,
+      "2024-06-01": 855,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "40.34%",
-    "uptimeWeek": "77.66%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "40.32%",
+    "uptimeWeek": "77.65%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 917,
-    "timeDay": 939,
-    "timeWeek": 937,
+    "timeDay": 932,
+    "timeWeek": 936,
     "timeMonth": 915,
     "timeYear": 914,
     "dailyMinutesDown": {
@@ -848,7 +848,7 @@
       "2024-05-25": 95,
       "2024-05-24": 40,
       "2024-05-23": 369,
-      "2024-05-22": 174
+      "2024-05-22": 155
     }
   },
   {
@@ -856,19 +856,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "40.32%",
+    "uptimeDay": "40.27%",
     "uptimeWeek": "77.67%",
-    "uptimeMonth": "93.38%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 1217,
-    "timeDay": 1262,
+    "timeDay": 1255,
     "timeWeek": 989,
     "timeMonth": 956,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2024-06-01": 668,
+      "2024-06-01": 669,
       "2024-05-31": 380,
       "2024-05-30": 257,
       "2024-05-29": 265,
@@ -878,7 +878,7 @@
       "2024-05-25": 86,
       "2024-05-24": 40,
       "2024-05-23": 369,
-      "2024-05-22": 174
+      "2024-05-22": 155
     }
   },
   {
