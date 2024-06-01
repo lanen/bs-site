@@ -34,7 +34,7 @@
     "timeMonth": 3604,
     "timeYear": 3684,
     "dailyMinutesDown": {
-      "2024-06-01": 1395,
+      "2024-06-01": 1410,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-01": 1395,
+      "2024-06-01": 1410,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "40.48%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "40.52%",
     "uptimeWeek": "76.29%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "99.50%",
     "time": 916,
-    "timeDay": 926,
-    "timeWeek": 938,
+    "timeDay": 924,
+    "timeWeek": 937,
     "timeMonth": 916,
     "timeYear": 914,
     "dailyMinutesDown": {
@@ -847,7 +847,7 @@
       "2024-05-26": 96,
       "2024-05-25": 95,
       "2024-05-24": 40,
-      "2024-05-23": 369
+      "2024-05-23": 85
     }
   },
   {
@@ -855,19 +855,19 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "40.45%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "40.49%",
     "uptimeWeek": "76.22%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "99.50%",
     "time": 1218,
-    "timeDay": 1278,
-    "timeWeek": 999,
-    "timeMonth": 962,
+    "timeDay": 1279,
+    "timeWeek": 997,
+    "timeMonth": 961,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2024-06-01": 832,
+      "2024-06-01": 833,
       "2024-05-31": 380,
       "2024-05-30": 257,
       "2024-05-29": 265,
@@ -876,7 +876,7 @@
       "2024-05-26": 96,
       "2024-05-25": 86,
       "2024-05-24": 40,
-      "2024-05-23": 369
+      "2024-05-23": 85
     }
   },
   {
