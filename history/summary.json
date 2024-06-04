@@ -34,7 +34,7 @@
     "timeMonth": 3415,
     "timeYear": 3669,
     "dailyMinutesDown": {
-      "2024-06-04": 924,
+      "2024-06-04": 936,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-04": 924,
+      "2024-06-04": 936,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "59.78%",
-    "uptimeWeek": "72.09%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "60.60%",
+    "uptimeWeek": "72.27%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "99.47%",
     "time": 924,
-    "timeDay": 1034,
+    "timeDay": 1036,
     "timeWeek": 978,
     "timeMonth": 938,
     "timeYear": 915,
@@ -843,7 +843,7 @@
       "2024-06-02": 507,
       "2024-06-01": 851,
       "2024-05-31": 373,
-      "2024-05-30": 234
+      "2024-05-30": 215
     }
   },
   {
@@ -851,24 +851,24 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "59.78%",
-    "uptimeWeek": "71.94%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "60.55%",
+    "uptimeWeek": "72.12%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.47%",
     "time": 1219,
-    "timeDay": 1472,
-    "timeWeek": 1146,
+    "timeDay": 1477,
+    "timeWeek": 1145,
     "timeMonth": 1035,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2024-06-04": 428,
+      "2024-06-04": 429,
       "2024-06-03": 422,
       "2024-06-02": 514,
       "2024-06-01": 852,
       "2024-05-31": 380,
-      "2024-05-30": 234
+      "2024-05-30": 215
     }
   },
   {
