@@ -34,7 +34,7 @@
     "timeMonth": 3413,
     "timeYear": 3670,
     "dailyMinutesDown": {
-      "2024-06-05": 375,
+      "2024-06-05": 415,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-05": 375,
+      "2024-06-05": 415,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "58.08%",
-    "uptimeWeek": "71.79%",
-    "uptimeMonth": "93.51%",
+    "uptimeDay": "58.86%",
+    "uptimeWeek": "71.96%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 920,
-    "timeDay": 921,
+    "timeDay": 902,
     "timeWeek": 967,
     "timeMonth": 933,
     "timeYear": 915,
@@ -843,7 +843,7 @@
       "2024-06-03": 422,
       "2024-06-02": 507,
       "2024-06-01": 851,
-      "2024-05-31": 331
+      "2024-05-31": 314
     }
   },
   {
@@ -851,24 +851,24 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "60.11%",
-    "uptimeWeek": "71.93%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "60.84%",
+    "uptimeWeek": "72.09%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.46%",
     "time": 1218,
-    "timeDay": 1281,
-    "timeWeek": 1136,
+    "timeDay": 1266,
+    "timeWeek": 1135,
     "timeMonth": 1006,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2024-06-05": 133,
+      "2024-06-05": 134,
       "2024-06-04": 572,
       "2024-06-03": 422,
       "2024-06-02": 514,
       "2024-06-01": 852,
-      "2024-05-31": 338
+      "2024-05-31": 321
     }
   },
   {
@@ -910,7 +910,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.64%",
+    "uptimeYear": "46.65%",
     "time": 832,
     "timeDay": 0,
     "timeWeek": 630,
