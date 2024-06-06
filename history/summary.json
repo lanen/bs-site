@@ -34,7 +34,7 @@
     "timeMonth": 3292,
     "timeYear": 3660,
     "dailyMinutesDown": {
-      "2024-06-06": 1038,
+      "2024-06-06": 1055,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
@@ -443,7 +443,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ctiktok.net.ico",
     "slug": "ctiktok-net",
     "status": "down",
-    "uptime": "19.28%",
+    "uptime": "19.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 1039,
+      "2024-06-06": 1055,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "76.06%",
-    "uptimeWeek": "73.54%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "76.55%",
+    "uptimeWeek": "73.70%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "99.50%",
     "time": 917,
-    "timeDay": 1076,
-    "timeWeek": 961,
+    "timeDay": 1072,
+    "timeWeek": 960,
     "timeMonth": 939,
     "timeYear": 916,
     "dailyMinutesDown": {
@@ -843,7 +843,7 @@
       "2024-06-04": 571,
       "2024-06-03": 422,
       "2024-06-02": 507,
-      "2024-06-01": 184
+      "2024-06-01": 168
     }
   },
   {
@@ -851,24 +851,24 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "76.08%",
-    "uptimeWeek": "73.96%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "76.56%",
+    "uptimeWeek": "74.11%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 1217,
-    "timeDay": 1138,
+    "timeDay": 1146,
     "timeWeek": 1138,
     "timeMonth": 1007,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2024-06-06": 145,
+      "2024-06-06": 146,
       "2024-06-05": 789,
       "2024-06-04": 572,
       "2024-06-03": 422,
       "2024-06-02": 514,
-      "2024-06-01": 184
+      "2024-06-01": 168
     }
   },
   {
