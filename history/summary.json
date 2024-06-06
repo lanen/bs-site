@@ -34,7 +34,7 @@
     "timeMonth": 3292,
     "timeYear": 3660,
     "dailyMinutesDown": {
-      "2024-06-06": 1073,
+      "2024-06-06": 1089,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-06": 1074,
+      "2024-06-06": 1089,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "76.57%",
-    "uptimeWeek": "73.52%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "77.60%",
+    "uptimeWeek": "73.76%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "99.50%",
     "time": 917,
-    "timeDay": 1068,
+    "timeDay": 1062,
     "timeWeek": 960,
     "timeMonth": 939,
     "timeYear": 916,
@@ -843,7 +843,7 @@
       "2024-06-04": 571,
       "2024-06-03": 422,
       "2024-06-02": 507,
-      "2024-06-01": 168
+      "2024-06-01": 143
     }
   },
   {
@@ -851,24 +851,24 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "73.93%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "77.61%",
+    "uptimeWeek": "74.16%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.50%",
     "time": 1217,
-    "timeDay": 1137,
-    "timeWeek": 1137,
-    "timeMonth": 1007,
+    "timeDay": 1121,
+    "timeWeek": 1135,
+    "timeMonth": 1006,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2024-06-06": 164,
+      "2024-06-06": 165,
       "2024-06-05": 789,
       "2024-06-04": 572,
       "2024-06-03": 422,
       "2024-06-02": 514,
-      "2024-06-01": 168
+      "2024-06-01": 143
     }
   },
   {
