@@ -34,7 +34,7 @@
     "timeMonth": 2724,
     "timeYear": 3638,
     "dailyMinutesDown": {
-      "2024-06-10": 456,
+      "2024-06-10": 492,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-10": 456,
+      "2024-06-10": 492,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "32.63%",
-    "uptimeWeek": "69.26%",
-    "uptimeMonth": "92.93%",
+    "uptimeDay": "33.35%",
+    "uptimeWeek": "69.49%",
+    "uptimeMonth": "92.98%",
     "uptimeYear": "99.41%",
     "time": 924,
-    "timeDay": 882,
-    "timeWeek": 954,
+    "timeDay": 880,
+    "timeWeek": 955,
     "timeMonth": 939,
     "timeYear": 916,
     "dailyMinutesDown": {
@@ -844,7 +844,7 @@
       "2024-06-07": 321,
       "2024-06-06": 246,
       "2024-06-05": 838,
-      "2024-06-04": 392
+      "2024-06-04": 369
     }
   },
   {
@@ -852,25 +852,25 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "32.63%",
-    "uptimeWeek": "69.75%",
-    "uptimeMonth": "93.04%",
+    "uptimeDay": "33.34%",
+    "uptimeWeek": "69.97%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
-    "time": 1212,
-    "timeDay": 930,
-    "timeWeek": 1011,
+    "time": 1213,
+    "timeDay": 815,
+    "timeWeek": 1012,
     "timeMonth": 985,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2024-06-10": 182,
+      "2024-06-10": 183,
       "2024-06-09": 893,
       "2024-06-08": 229,
       "2024-06-07": 321,
       "2024-06-06": 246,
       "2024-06-05": 789,
-      "2024-06-04": 392
+      "2024-06-04": 369
     }
   },
   {
