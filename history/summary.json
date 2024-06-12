@@ -34,7 +34,7 @@
     "timeMonth": 2539,
     "timeYear": 3623,
     "dailyMinutesDown": {
-      "2024-06-12": 1119,
+      "2024-06-12": 1132,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-12": 1119,
+      "2024-06-12": 1132,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "78.13%",
-    "uptimeWeek": "73.22%",
-    "uptimeMonth": "93.84%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "78.98%",
+    "uptimeWeek": "73.40%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
     "time": 916,
-    "timeDay": 842,
-    "timeWeek": 925,
+    "timeDay": 835,
+    "timeWeek": 924,
     "timeMonth": 928,
     "timeYear": 915,
     "dailyMinutesDown": {
@@ -845,7 +845,7 @@
       "2024-06-08": 229,
       "2024-06-07": 321,
       "2024-06-06": 246,
-      "2024-06-05": 63
+      "2024-06-05": 44
     }
   },
   {
@@ -853,26 +853,26 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "77.72%",
-    "uptimeWeek": "73.16%",
-    "uptimeMonth": "93.82%",
+    "uptimeDay": "78.54%",
+    "uptimeWeek": "73.33%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 1210,
-    "timeDay": 831,
-    "timeWeek": 920,
-    "timeMonth": 975,
+    "timeDay": 826,
+    "timeWeek": 919,
+    "timeMonth": 974,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2024-06-12": 265,
+      "2024-06-12": 266,
       "2024-06-11": 235,
       "2024-06-10": 458,
       "2024-06-09": 893,
       "2024-06-08": 229,
       "2024-06-07": 321,
       "2024-06-06": 246,
-      "2024-06-05": 63
+      "2024-06-05": 44
     }
   },
   {
