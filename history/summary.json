@@ -34,7 +34,7 @@
     "timeMonth": 2087,
     "timeYear": 3587,
     "dailyMinutesDown": {
-      "2024-06-17": 1068,
+      "2024-06-17": 1159,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-17": 1068,
+      "2024-06-17": 1159,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "72.42%",
-    "uptimeWeek": "73.04%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "73.78%",
+    "uptimeWeek": "73.20%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "99.49%",
     "time": 916,
-    "timeDay": 853,
-    "timeWeek": 871,
+    "timeDay": 830,
+    "timeWeek": 870,
     "timeMonth": 918,
     "timeYear": 915,
     "dailyMinutesDown": {
@@ -843,7 +843,7 @@
       "2024-06-15": 571,
       "2024-06-14": 710,
       "2024-06-13": 521,
-      "2024-06-12": 338
+      "2024-06-12": 322
     }
   },
   {
@@ -851,24 +851,24 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "72.41%",
-    "uptimeWeek": "72.98%",
-    "uptimeMonth": "93.78%",
+    "uptimeDay": "73.73%",
+    "uptimeWeek": "73.13%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "99.48%",
     "time": 1204,
-    "timeDay": 927,
-    "timeWeek": 878,
-    "timeMonth": 957,
+    "timeDay": 934,
+    "timeWeek": 876,
+    "timeMonth": 956,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2024-06-17": 318,
+      "2024-06-17": 319,
       "2024-06-16": 259,
       "2024-06-15": 570,
       "2024-06-14": 711,
       "2024-06-13": 521,
-      "2024-06-12": 343
+      "2024-06-12": 327
     }
   },
   {
@@ -910,7 +910,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.06%",
+    "uptimeYear": "50.08%",
     "time": 832,
     "timeDay": 537,
     "timeWeek": 731,
