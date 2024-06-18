@@ -34,7 +34,7 @@
     "timeMonth": 1995,
     "timeYear": 3579,
     "dailyMinutesDown": {
-      "2024-06-18": 1264,
+      "2024-06-18": 1274,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-18": 1265,
+      "2024-06-18": 1274,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "36.59%",
-    "uptimeWeek": "68.38%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "36.56%",
+    "uptimeWeek": "68.56%",
+    "uptimeMonth": "92.77%",
+    "uptimeYear": "99.40%",
     "time": 917,
-    "timeDay": 878,
+    "timeDay": 877,
     "timeWeek": 873,
     "timeMonth": 917,
     "timeYear": 914,
@@ -843,7 +843,7 @@
       "2024-06-16": 259,
       "2024-06-15": 571,
       "2024-06-14": 710,
-      "2024-06-13": 377
+      "2024-06-13": 358
     }
   },
   {
@@ -851,24 +851,24 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "36.58%",
-    "uptimeWeek": "68.38%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "36.52%",
+    "uptimeWeek": "68.55%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.40%",
     "time": 1202,
     "timeDay": 802,
     "timeWeek": 870,
     "timeMonth": 950,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2024-06-18": 890,
+      "2024-06-18": 891,
       "2024-06-17": 380,
       "2024-06-16": 259,
       "2024-06-15": 570,
       "2024-06-14": 711,
-      "2024-06-13": 377
+      "2024-06-13": 358
     }
   },
   {
