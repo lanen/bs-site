@@ -34,7 +34,7 @@
     "timeMonth": 1702,
     "timeYear": 3556,
     "dailyMinutesDown": {
-      "2024-06-21": 550,
+      "2024-06-21": 586,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-21": 550,
+      "2024-06-21": 586,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "68.86%",
-    "uptimeWeek": "71.12%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "69.28%",
+    "uptimeWeek": "71.30%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 920,
-    "timeDay": 890,
+    "timeDay": 886,
     "timeWeek": 877,
     "timeMonth": 916,
     "timeYear": 914,
@@ -844,7 +844,7 @@
       "2024-06-18": 951,
       "2024-06-17": 380,
       "2024-06-16": 259,
-      "2024-06-15": 457
+      "2024-06-15": 438
     }
   },
   {
@@ -852,25 +852,25 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "71.11%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "69.27%",
+    "uptimeWeek": "71.29%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "99.45%",
     "time": 1199,
-    "timeDay": 900,
-    "timeWeek": 896,
-    "timeMonth": 949,
+    "timeDay": 896,
+    "timeWeek": 895,
+    "timeMonth": 948,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2024-06-21": 242,
+      "2024-06-21": 243,
       "2024-06-20": 327,
       "2024-06-19": 295,
       "2024-06-18": 952,
       "2024-06-17": 380,
       "2024-06-16": 259,
-      "2024-06-15": 456
+      "2024-06-15": 437
     }
   },
   {
