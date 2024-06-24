@@ -34,7 +34,7 @@
     "timeMonth": 1431,
     "timeYear": 3534,
     "dailyMinutesDown": {
-      "2024-06-24": 1286,
+      "2024-06-24": 1292,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-24": 1286,
+      "2024-06-24": 1292,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -826,15 +826,15 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "77.51%",
-    "uptimeWeek": "71.01%",
-    "uptimeMonth": "93.33%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "77.93%",
+    "uptimeWeek": "71.42%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "99.45%",
     "time": 917,
-    "timeDay": 918,
-    "timeWeek": 903,
+    "timeDay": 920,
+    "timeWeek": 904,
     "timeMonth": 919,
     "timeYear": 914,
     "dailyMinutesDown": {
@@ -844,7 +844,7 @@
       "2024-06-21": 317,
       "2024-06-20": 327,
       "2024-06-19": 295,
-      "2024-06-18": 565
+      "2024-06-18": 523
     }
   },
   {
@@ -852,25 +852,25 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "77.54%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "93.33%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "77.92%",
+    "uptimeWeek": "71.41%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "99.45%",
     "time": 1196,
-    "timeDay": 935,
+    "timeDay": 934,
     "timeWeek": 899,
     "timeMonth": 958,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2024-06-24": 266,
+      "2024-06-24": 267,
       "2024-06-23": 507,
       "2024-06-22": 646,
       "2024-06-21": 318,
       "2024-06-20": 327,
       "2024-06-19": 295,
-      "2024-06-18": 566
+      "2024-06-18": 524
     }
   },
   {
