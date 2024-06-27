@@ -34,7 +34,7 @@
     "timeMonth": 1242,
     "timeYear": 3512,
     "dailyMinutesDown": {
-      "2024-06-27": 945,
+      "2024-06-27": 986,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-27": 945,
+      "2024-06-27": 987,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -826,14 +826,14 @@
     "url": "https://www.rexingsports.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.rexingsports.cn.ico",
     "slug": "rexingsports-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "40.74%",
-    "uptimeWeek": "71.17%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "42.06%",
+    "uptimeWeek": "71.36%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 916,
-    "timeDay": 868,
+    "timeDay": 866,
     "timeWeek": 908,
     "timeMonth": 917,
     "timeYear": 914,
@@ -844,7 +844,7 @@
       "2024-06-24": 285,
       "2024-06-23": 507,
       "2024-06-22": 646,
-      "2024-06-21": 38
+      "2024-06-21": 19
     }
   },
   {
@@ -852,25 +852,25 @@
     "url": "https://vipgifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "40.73%",
-    "uptimeWeek": "71.17%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "42.01%",
+    "uptimeWeek": "71.35%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
-    "time": 1193,
+    "time": 1192,
     "timeDay": 857,
-    "timeWeek": 920,
-    "timeMonth": 953,
+    "timeWeek": 919,
+    "timeMonth": 952,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2024-06-27": 505,
+      "2024-06-27": 506,
       "2024-06-26": 638,
       "2024-06-25": 289,
       "2024-06-24": 285,
       "2024-06-23": 507,
       "2024-06-22": 646,
-      "2024-06-21": 38
+      "2024-06-21": 19
     }
   },
   {
