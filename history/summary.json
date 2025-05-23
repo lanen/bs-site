@@ -4,19 +4,19 @@
     "url": "https://www.buckydrop.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.buckydrop.com.ico",
     "slug": "buckydrop",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 1275,
-    "timeWeek": 793,
-    "timeMonth": 689,
+    "timeDay": 851,
+    "timeWeek": 760,
+    "timeMonth": 682,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-05-23": 0
+      "2025-05-23": 10
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 958,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-05-23": 967,
+      "2025-05-23": 977,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-23": 967,
+      "2025-05-23": 977,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -876,7 +876,7 @@
     "timeMonth": 0,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2025-05-23": 967,
+      "2025-05-23": 977,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -1239,7 +1239,7 @@
     "timeMonth": 0,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2025-05-23": 967,
+      "2025-05-23": 978,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
