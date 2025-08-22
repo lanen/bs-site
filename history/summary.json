@@ -6,17 +6,16 @@
     "slug": "buckydrop",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
-    "time": 636,
-    "timeDay": 265,
-    "timeWeek": 582,
-    "timeMonth": 652,
-    "timeYear": 645,
+    "time": 637,
+    "timeDay": 750,
+    "timeWeek": 654,
+    "timeMonth": 664,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-08-21": 8,
       "2025-08-10": 42,
       "2025-08-09": 37,
       "2025-07-12": 29,
@@ -35,13 +34,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1139,
-    "timeDay": 515,
-    "timeWeek": 803,
-    "timeMonth": 955,
-    "timeYear": 767,
+    "time": 1134,
+    "timeDay": 1612,
+    "timeWeek": 912,
+    "timeMonth": 984,
+    "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-08-21": 1240,
+      "2025-08-22": 19,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -404,8 +404,7 @@
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
-      "2024-08-23": 1440,
-      "2024-08-22": 1440
+      "2024-08-23": 1440
     }
   },
   {
@@ -419,11 +418,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 265,
-    "timeWeek": 370,
-    "timeMonth": 318,
-    "timeYear": 405,
+    "time": 454,
+    "timeDay": 304,
+    "timeWeek": 358,
+    "timeMonth": 320,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   },
   {
@@ -437,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 222,
-    "timeWeek": 394,
-    "timeMonth": 395,
-    "timeYear": 433,
+    "time": 463,
+    "timeDay": 411,
+    "timeWeek": 386,
+    "timeMonth": 397,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   },
   {
@@ -461,7 +460,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-21": 1240,
+      "2025-08-22": 19,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -824,8 +824,7 @@
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
-      "2024-08-23": 1440,
-      "2024-08-22": 1440
+      "2024-08-23": 1440
     }
   },
   {
@@ -835,17 +834,16 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "97.74%",
-    "time": 985,
-    "timeDay": 885,
-    "timeWeek": 1046,
-    "timeMonth": 1031,
-    "timeYear": 1007,
+    "time": 986,
+    "timeDay": 976,
+    "timeWeek": 1043,
+    "timeMonth": 1032,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2025-08-21": 8,
       "2025-08-10": 41,
       "2025-08-09": 37,
       "2025-07-12": 29,
@@ -868,18 +866,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vipgifts.net.ico",
     "slug": "vipgifts-net",
     "status": "down",
-    "uptime": "69.76%",
+    "uptime": "69.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 969,
+    "time": 974,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-21": 1240,
+      "2025-08-22": 19,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -1242,8 +1241,7 @@
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
-      "2024-08-23": 1440,
-      "2024-08-22": 1440
+      "2024-08-23": 1440
     }
   },
   {
@@ -1257,11 +1255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1031,
-    "timeDay": 859,
-    "timeWeek": 1820,
-    "timeMonth": 1307,
-    "timeYear": 1112,
+    "time": 1032,
+    "timeDay": 1340,
+    "timeWeek": 1865,
+    "timeMonth": 1314,
+    "timeYear": 1114,
     "dailyMinutesDown": {}
   },
   {
@@ -1275,13 +1273,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 742,
+    "time": 745,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-21": 1240,
+      "2025-08-22": 19,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -1644,8 +1643,7 @@
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
-      "2024-08-23": 1440,
-      "2024-08-22": 1440
+      "2024-08-23": 1440
     }
   }
 ]
