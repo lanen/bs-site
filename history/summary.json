@@ -40,7 +40,7 @@
     "timeMonth": 984,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-08-22": 662,
+      "2025-08-22": 671,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-22": 662,
+      "2025-08-22": 671,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -877,7 +877,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-22": 662,
+      "2025-08-22": 671,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -1249,19 +1249,19 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trixmall.com.ico",
     "slug": "trixmall-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 874,
-    "timeWeek": 1683,
-    "timeMonth": 1285,
+    "time": 1033,
+    "timeDay": 941,
+    "timeWeek": 1615,
+    "timeMonth": 1279,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 9
     }
   },
   {
@@ -1281,7 +1281,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-22": 662,
+      "2025-08-22": 671,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
