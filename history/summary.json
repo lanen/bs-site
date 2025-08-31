@@ -6,17 +6,16 @@
     "slug": "buckydrop",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.96%",
     "time": 634,
-    "timeDay": 745,
-    "timeWeek": 567,
-    "timeMonth": 621,
+    "timeDay": 712,
+    "timeWeek": 525,
+    "timeMonth": 619,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-08-30": 6,
       "2025-08-24": 36,
       "2025-08-10": 42,
       "2025-08-09": 37,
@@ -31,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "19.78%",
+    "uptime": "19.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1090,
-    "timeDay": 637,
-    "timeWeek": 783,
-    "timeMonth": 914,
+    "time": 1084,
+    "timeDay": 519,
+    "timeWeek": 772,
+    "timeMonth": 893,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-08-30": 1368,
+      "2025-08-31": 21,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -405,8 +405,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -421,10 +420,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 292,
-    "timeWeek": 885,
-    "timeMonth": 456,
-    "timeYear": 408,
+    "timeDay": 348,
+    "timeWeek": 878,
+    "timeMonth": 458,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   },
   {
@@ -439,10 +438,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 707,
-    "timeWeek": 457,
-    "timeMonth": 395,
-    "timeYear": 426,
+    "timeDay": 383,
+    "timeWeek": 475,
+    "timeMonth": 396,
+    "timeYear": 427,
     "dailyMinutesDown": {}
   },
   {
@@ -462,7 +461,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-30": 1368,
+      "2025-08-31": 21,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -825,8 +825,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -836,17 +835,16 @@
     "slug": "rexingsports-cn",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "97.73%",
     "time": 994,
-    "timeDay": 1011,
-    "timeWeek": 1108,
-    "timeMonth": 1054,
-    "timeYear": 1009,
+    "timeDay": 966,
+    "timeWeek": 1109,
+    "timeMonth": 1046,
+    "timeYear": 1008,
     "dailyMinutesDown": {
-      "2025-08-30": 5,
       "2025-08-24": 36,
       "2025-08-10": 41,
       "2025-08-09": 37,
@@ -881,7 +879,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-30": 1368,
+      "2025-08-31": 21,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -1244,8 +1243,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -1260,10 +1258,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1038,
-    "timeDay": 816,
-    "timeWeek": 1172,
-    "timeMonth": 1247,
-    "timeYear": 1116,
+    "timeDay": 862,
+    "timeWeek": 1177,
+    "timeMonth": 1243,
+    "timeYear": 1115,
     "dailyMinutesDown": {}
   },
   {
@@ -1277,13 +1275,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 751,
+    "time": 750,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-30": 1368,
+      "2025-08-31": 21,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -1646,8 +1645,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   }
 ]
