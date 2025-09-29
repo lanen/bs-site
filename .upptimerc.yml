@@ -12,17 +12,9 @@ sites:
   - name: Superbuy
     url: https://www.superbuy.com
   - name: Superbuy Login
-    url: https://login.superbuy.com
-  - name: ctiktok.net
-    url: https://www.ctiktok.net
-  - name: rexingsports.cn
-    url: https://www.rexingsports.cn   
-  - name: vipgifts.net
-    url: https://vipgifts.net    
+    url: https://login.superbuy.com 
   - name: trixmall.com
     url: https://www.trixmall.com/
-  - name: Myus
-    url: https://chinamarketplace.myus.com
     
 
 status-website:
