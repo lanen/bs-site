@@ -11,9 +11,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 624,
-    "timeDay": 645,
-    "timeWeek": 641,
-    "timeMonth": 561,
+    "timeDay": 401,
+    "timeWeek": 638,
+    "timeMonth": 558,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2025-10-05": 31,
@@ -36,18 +36,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "19.23%",
+    "uptime": "19.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 815,
-    "timeDay": 635,
-    "timeWeek": 743,
+    "timeDay": 732,
+    "timeWeek": 781,
     "timeMonth": 732,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2025-10-08": 18,
+      "2025-10-09": 18,
+      "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -410,8 +411,7 @@
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
-      "2024-10-10": 1440,
-      "2024-10-09": 1440
+      "2024-10-10": 1440
     }
   },
   {
@@ -426,8 +426,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 261,
-    "timeWeek": 306,
+    "timeDay": 325,
+    "timeWeek": 326,
     "timeMonth": 317,
     "timeYear": 380,
     "dailyMinutesDown": {}
@@ -444,10 +444,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
-    "timeDay": 508,
-    "timeWeek": 495,
-    "timeMonth": 917,
-    "timeYear": 460,
+    "timeDay": 237,
+    "timeWeek": 482,
+    "timeMonth": 913,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -462,10 +462,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1072,
-    "timeDay": 2173,
-    "timeWeek": 1279,
-    "timeMonth": 1281,
-    "timeYear": 1143,
+    "timeDay": 865,
+    "timeWeek": 1231,
+    "timeMonth": 1279,
+    "timeYear": 1142,
     "dailyMinutesDown": {}
   }
 ]
