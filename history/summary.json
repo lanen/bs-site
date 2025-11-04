@@ -11,9 +11,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
     "time": 613,
-    "timeDay": 422,
-    "timeWeek": 491,
-    "timeMonth": 517,
+    "timeDay": 475,
+    "timeWeek": 505,
+    "timeMonth": 519,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2025-10-26": 32,
@@ -37,18 +37,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "18.88%",
+    "uptime": "18.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 781,
-    "timeDay": 626,
-    "timeWeek": 603,
-    "timeMonth": 750,
-    "timeYear": 770,
+    "timeDay": 592,
+    "timeWeek": 586,
+    "timeMonth": 728,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2025-11-03": 20,
+      "2025-11-04": 19,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -411,8 +412,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -426,11 +426,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 313,
-    "timeWeek": 226,
+    "time": 417,
+    "timeDay": 329,
+    "timeWeek": 232,
     "timeMonth": 296,
-    "timeYear": 351,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -445,10 +445,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 331,
+    "timeDay": 344,
     "timeWeek": 324,
-    "timeMonth": 419,
-    "timeYear": 447,
+    "timeMonth": 416,
+    "timeYear": 446,
     "dailyMinutesDown": {}
   },
   {
@@ -462,11 +462,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1099,
-    "timeDay": 1560,
-    "timeWeek": 1311,
-    "timeMonth": 1287,
-    "timeYear": 1158,
+    "time": 1101,
+    "timeDay": 1442,
+    "timeWeek": 1383,
+    "timeMonth": 1309,
+    "timeYear": 1160,
     "dailyMinutesDown": {}
   }
 ]
