@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 611,
-    "timeDay": 883,
+    "timeDay": 626,
     "timeWeek": 424,
-    "timeMonth": 477,
+    "timeMonth": 481,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2025-10-26": 32,
@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buckydrop-bd",
     "status": "down",
-    "uptime": "18.75%",
+    "uptime": "18.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -48,7 +48,7 @@
     "timeMonth": 694,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2025-11-13": 19,
+      "2025-11-13": 1098,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -456,17 +456,19 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trixmall.com.ico",
     "slug": "trixmall-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1115,
-    "timeDay": 1849,
-    "timeWeek": 1529,
-    "timeMonth": 1372,
-    "timeYear": 1165,
-    "dailyMinutesDown": {}
+    "time": 1109,
+    "timeDay": 1139,
+    "timeWeek": 1392,
+    "timeMonth": 1343,
+    "timeYear": 1163,
+    "dailyMinutesDown": {
+      "2025-11-13": 0
+    }
   }
 ]
