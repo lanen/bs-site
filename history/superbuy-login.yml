@@ -1,7 +1,7 @@
 url: https://login.superbuy.com
-status: down
-code: 500
-responseTime: 164
-lastUpdated: 2025-11-18T11:58:42.311Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2025-11-18T12:14:10.593Z
 startTime: 2021-12-17T02:01:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
