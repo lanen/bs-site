@@ -48,7 +48,7 @@
     "timeMonth": 696,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2025-11-18": 706,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -420,37 +420,39 @@
     "url": "https://www.superbuy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.superbuy.com.ico",
     "slug": "superbuy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 261,
-    "timeWeek": 296,
-    "timeMonth": 285,
+    "timeDay": 249,
+    "timeWeek": 288,
+    "timeMonth": 283,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Superbuy Login",
     "url": "https://login.superbuy.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.superbuy.com.ico",
     "slug": "superbuy-login",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 373,
-    "timeWeek": 437,
-    "timeMonth": 377,
-    "timeYear": 443,
+    "time": 468,
+    "timeDay": 357,
+    "timeWeek": 424,
+    "timeMonth": 374,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 6
     }
   },
   {
