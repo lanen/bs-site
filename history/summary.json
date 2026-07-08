@@ -4,16 +4,16 @@
     "url": "https://www.buckydrop.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.buckydrop.com.ico",
     "slug": "buckydrop",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.66%",
+    "uptimeDay": "93.65%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.64%",
     "time": 538,
-    "timeDay": 529,
-    "timeWeek": 459,
-    "timeMonth": 395,
+    "timeDay": 443,
+    "timeWeek": 446,
+    "timeMonth": 394,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2025-07-12": 29,
@@ -78,7 +78,7 @@
       "2026-06-13": 59,
       "2026-06-14": 22,
       "2026-06-21": 32,
-      "2026-07-08": 5
+      "2026-07-08": 91
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 246,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2026-07-08": 923,
+      "2026-07-08": 1009,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
