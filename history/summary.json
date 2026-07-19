@@ -97,7 +97,7 @@
     "timeMonth": 238,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2026-07-19": 883,
+      "2026-07-19": 937,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -511,17 +511,17 @@
     "url": "https://www.trixmall.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trixmall.com.ico",
     "slug": "trixmall-com",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.29%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.28%",
     "time": 1332,
-    "timeDay": 958,
-    "timeWeek": 1150,
-    "timeMonth": 1419,
-    "timeYear": 1386,
+    "timeDay": 1079,
+    "timeWeek": 1164,
+    "timeMonth": 1416,
+    "timeYear": 1385,
     "dailyMinutesDown": {
       "2025-11-13": 15,
       "2025-12-05": 31,
@@ -548,7 +548,7 @@
       "2026-07-01": 72,
       "2026-07-15": 199,
       "2026-07-17": 39,
-      "2026-07-19": 0
+      "2026-07-19": 55
     }
   }
 ]
